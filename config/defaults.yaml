@@ -1,0 +1,19 @@
+crawl:
+  download_delay: 8
+  concurrent_requests: 3
+  request_timeout: 30
+  max_retries: 3
+  obey_robots_txt: false
+  user_agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+
+output:
+  directory: output
+  format: json
+  indent: 2
+
+state:
+  directory: state
+
+logging:
+  directory: logs
+  level: INFO

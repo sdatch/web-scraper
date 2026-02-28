@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "How AI Is Transforming Insurance Underwriting",
+  "author": {
+    "@type": "Person",
+    "name": "Jane Smith"
+  },
+  "datePublished": "2024-11-15T10:00:00-05:00",
+  "description": "Artificial intelligence is revolutionizing the way insurers assess risk and price policies.",
+  "url": "https://www.insurancethoughtleadership.com/ai-machine-learning/how-ai-transforming-insurance-underwriting",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Insurance Thought Leadership"
+  }
+}

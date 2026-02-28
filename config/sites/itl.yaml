@@ -1,0 +1,63 @@
+brand: itl
+brand_name: Insurance Thought Leadership
+base_url: https://www.insurancethoughtleadership.com
+
+entry_points:
+  - url: https://www.insurancethoughtleadership.com/ai-machine-learning
+    category: AI & Machine Learning
+  - url: https://www.insurancethoughtleadership.com/customer-experience
+    category: Customer Experience
+  - url: https://www.insurancethoughtleadership.com/resilience-sustainability
+    category: Resilience & Sustainability
+  - url: https://www.insurancethoughtleadership.com/cyber
+    category: Cyber
+  - url: https://www.insurancethoughtleadership.com/future-of-the-industry
+    category: Future of the Industry
+  - url: https://www.insurancethoughtleadership.com/new-business-models
+    category: New Business Models
+  - url: https://www.insurancethoughtleadership.com/talent-culture
+    category: Talent & Culture
+  - url: https://www.insurancethoughtleadership.com/type/big-picture
+    category: Big Picture
+
+pagination:
+  page_param: page
+  zero_indexed: true
+  last_page_selector: "li.pager__item--last a"
+
+listing:
+  link_selector: ".region-content h5 a[href]"
+
+extraction:
+  jsonld:
+    enabled: true
+    type_filter: Article
+    field_map:
+      title: headline
+      author: author.name
+      date_published: datePublished
+      description: description
+      canonical_url: url
+      publisher: publisher.name
+
+  dom_fallback:
+    enabled: true
+    selectors:
+      body: "div.article__body"
+      title: "h1.page-title"
+      date: "time[datetime]"
+      category: "nav.breadcrumb ol li a"
+      author: "div.field--name-field-author"
+
+  images:
+    container: "div.article__body"
+    base_url: https://www.insurancethoughtleadership.com
+
+url_filters:
+  include:
+    - "^https://www\\.insurancethoughtleadership\\.com/.+"
+  exclude:
+    - "/user/"
+    - "/search/"
+    - "/admin/"
+    - "\\?.*utm_"
