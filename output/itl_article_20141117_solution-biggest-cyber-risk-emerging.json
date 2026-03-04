@@ -1,0 +1,15 @@
+{
+  "title": "Solution for Biggest Cyber Risk Is Emerging",
+  "author": "LonBerk",
+  "date_published": "2014-11-17",
+  "description": "New payments technologies will remove the risk of identity theft at the point of sale, the focus of most cyber policies.",
+  "body": "<html><body><div class=\"article__body\">\n<div>As the demand for cyber insurance has skyrocketed, so, too, has the cost. One broker estimates that sales in 2014 will double from the $1 billion premium collected in 2013. Much of the increase in demand and cost has been a result of the widely publicized hacks of the point-of-sale systems at large retailers, and the primary emphasis of most cyber policies is to address liability arising from such events.\n\nNew payment technologies, however, will change the need for this type of cyber insurance. American Express recently announced a token service; Apple incorporated ApplePay into its new iPhones; and a group of retailers, the Merchant Customer Exchange, is working on the release of a new payment technology, as well. These technologies, although different in detail, eliminate the need for merchants to collect unencrypted payment card information from customers, significantly reducing the risk created by point-of-sale malware.\n\nThese technologies work by generating tokens or cryptograms for use at the point of sale. Financial institutions are able to determine whether the tokens or cryptograms are associated with a customer's account, even though it is virtually impossible for a third party possessing the token or cryptogram alone to identify the account. The specifics of the technologies vary, but the result is that the merchant does not need access to the customer's unencrypted account information, and any data obtained through the point-of-sale malware becomes virtually worthless.\n\nAs these payment technologies become prevalent in the U.S., the need for cyber insurance protecting retailers against point-of-sale malware should plunge.\n\nThere still will be a need for coverages protecting against other cyber risks, including other forms of malware and security breaches as well as against business interruptions arising from cyber events. However, the need and demand for cyber insurance covering privacy breaches should be reduced and the pressure on much of the current cyber insurance market removed.\n\n<em>This article first appeared on the Privacy and Information Security Law Blog.</em></div>\n</div></body></html>",
+  "canonical_url": "https://www.insurancethoughtleadership.com/cyber/solution-biggest-cyber-risk-emerging",
+  "brand": "itl",
+  "content_type": "article",
+  "category": "Cyber",
+  "publisher": "Insurance Thought Leadership",
+  "source_url": "https://www.insurancethoughtleadership.com/cyber/solution-biggest-cyber-risk-emerging",
+  "_scraped_at": "2026-02-28T05:05:30.552781+00:00",
+  "_content_hash": "8efcb938fecdafef036493182c0f52bf90c20a9b969651dd89c5824a78e80ed3"
+}
