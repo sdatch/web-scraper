@@ -1,0 +1,22 @@
+{
+  "title": "Security for Core Systems in the Cloud",
+  "author": "DonaldLight",
+  "date_published": "2018-01-17",
+  "description": "Cloud-based capabilities are generally equal to, and often better than, those of insurers that deploy core systems on their own premises.",
+  "body": "<html><body><div class=\"article__body\">\n<div><p class=\"m_-7072328713342223395gmail-MsoNormal\">As more insurers consider moving some of their core systems to the cloud, many want to know how secure their data and applications will be.<u></u></p>\n<p class=\"m_-7072328713342223395gmail-MsoNormal\">There are four major security considerations for cloud-based core systems: application risks, data risks, intellectual property risks and physical risks.<u></u><u></u></p>\n<em><strong>See also: <a href=\"http://insurancethoughtleadership.com/why-the-cloud-makes-it-all-happen/\">Why the Cloud Makes It All Happen  </a></strong></em>\n<p class=\"m_-7072328713342223395gmail-MsoNormal\">There are two basic models for how an insurer can use core systems in the cloud.<u></u><u></u></p>\n<ul type=\"disc\">\n<li class=\"m_-7072328713342223395gmail-MsoNormal\">Model One: An insurer licenses core systems from a core system vendor, and then the insurer or an integration partner deploys and uses those core systems in the cloud.<u></u><u></u></li>\n<li class=\"m_-7072328713342223395gmail-MsoNormal\">Model Two: A core system vendor deploys its core systems in the cloud, and then makes those core systems available to an insurer on a subscription basis.<u></u><u></u></li>\n</ul>\n<p class=\"m_-7072328713342223395gmail-MsoNormal\">Leading cloud providers create and maintain a set of services and capabilities to provide security for infrastructure and platform cloud elements. The breadth and depth of these tools and capabilities are generally equal to, and often better than, those utilized by individual insurers that deploy core systems on their own premises.</p>\n<a href=\"https://www.insurancethoughtleadership.com/sites/default/files/wp/2017/12/unnamed-1-1.jpg\"><img alt=\"\" class=\"alignnone wp-image-29179\" height=\"357\" loading=\"lazy\" src=\"https://www.insurancethoughtleadership.com/sites/default/files/wp/2017/12/unnamed-1-1.jpg\" width=\"570\"/></a>\n<p class=\"m_-7072328713342223395gmail-MsoNormal\">When properly addressed, security considerations should not be a barrier to an insurer using and realizing the benefits of cloud-based core systems.</p>\n<em><strong>See also: <a href=\"http://insurancethoughtleadership.com/how-can-insurers-leverage-the-cloud/\">How Can Insurers Leverage the Cloud?  </a></strong></em>\n<em>For access to the full report, please click <a href=\"https://www.celent.com/insights/222144598\">here</a>.</em><u></u></div>\n</div></body></html>",
+  "canonical_url": "https://www.insurancethoughtleadership.com/cyber/security-core-systems-cloud",
+  "brand": "itl",
+  "content_type": "article",
+  "category": "Cyber",
+  "images": [
+    {
+      "url": "https://www.insurancethoughtleadership.com/sites/default/files/wp/2017/12/unnamed-1-1.jpg",
+      "alt": "",
+      "caption": ""
+    }
+  ],
+  "publisher": "Insurance Thought Leadership",
+  "source_url": "https://www.insurancethoughtleadership.com/cyber/security-core-systems-cloud",
+  "_scraped_at": "2026-02-28T17:16:10.152570+00:00",
+  "_content_hash": "7658a573cbaceb8a3a5bd465420c9b28d7ec83f80dd7ea868ae5b8417ecb5195"
+}
