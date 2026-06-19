@@ -1,0 +1,27 @@
+{
+  "author": "Presented by Willis Towers Watson",
+  "date_published": "2019-05-07",
+  "body": "<html><body><div class=\"field field--name-body field--type-text-with-summary field--label-hidden field__item\" property=\"schema:text\"><p> </p><p><em>@2019 Willis Towers Watson. Used with permission</em></p><p>This report summarizes economic and insured losses from the most relevant natural catastrophe events that occurred during 2018. The loss values presented herein include those reported by Willis Re, catastrophe model vendors, reinsurance companies and third-party organizations.</p><p><a href=\"https://www.willistowerswatson.com/-/media/WTW/Insights/2019/01/willis-re-summary-of-natural-catastrophe-events-2018.pdf\"><strong>learn more &gt;</strong></a></p></div></body></html>",
+  "canonical_url": "https://www.internationalinsurance.org/summary-natural-catastrophe-events-2018",
+  "brand": "iis",
+  "content_type": "article",
+  "source_url": "https://www.internationalinsurance.org/summary-natural-catastrophe-events-2018",
+  "images": [
+    {
+      "url": "https://www.internationalinsurance.org/sites/default/files/styles/mekanic_480_mks3/public/2026-04/WTW%20logo%20477x322px.png?itok=QInM7Qel",
+      "alt": "Summary of Natural Catastrophe Events 2018",
+      "caption": ""
+    }
+  ],
+  "publisher": "International Insurance Society",
+  "_scraped_at": "2026-04-28T11:40:47.197515+00:00",
+  "categories": [
+    "Sustainability in Risk & Insurance",
+    "News"
+  ],
+  "category": "Sustainability in Risk & Insurance",
+  "_missing_fields": [
+    "title"
+  ],
+  "_content_hash": "efc94bbf2288ab9d4efa9c6c894325bb84fc160069bb20e3ae48c16a22f7e014"
+}

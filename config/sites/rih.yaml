@@ -1,0 +1,75 @@
+brand: rih
+brand_name: Risk & Insurance
+base_url: https://riskandinsurance.com
+
+# Each entry point is a category landing page; the spider follows
+# rel="next" pagination links until the last page.
+entry_points:
+  - url: https://riskandinsurance.com/category/critical-risks/
+    category: Critical Risks
+  - url: https://riskandinsurance.com/category/risksrm/risk-management-2/
+    category: Risk Management
+  - url: https://riskandinsurance.com/category/industries/insurance-industry/
+    category: The Insurance Industry
+  - url: https://riskandinsurance.com/category/general/claims/
+    category: Claims & The Law
+  - url: https://riskandinsurance.com/category/workers-comp/
+    category: Workers' Comp Forum
+  - url: https://riskandinsurance.com/category/conferences-parent/national-comp-conference/
+    category: National Comp
+  - url: https://riskandinsurance.com/category/site-functionality-parent/risk-insider/
+    category: Risk Insiders
+  - url: https://riskandinsurance.com/category/sector-focus-parent/
+    category: Sector Focus
+  - url: https://riskandinsurance.com/category/risk-matrix/
+    category: Risk Matrix
+
+pagination:
+  next_page_selector: "a.next.page-numbers"
+
+listing:
+  # Each card has multiple anchors pointing to the same article (image,
+  # headline, excerpt). Match the headline anchor specifically via XPath
+  # to keep dedup logic simple.
+  link_xpath: "//a[h3[@class='splash']]/@href"
+
+extraction:
+  # Yoast emits a JSON-LD @graph with @type WebPage on every article.
+  # Title from JSON-LD has " - Risk & Insurance" appended, so we let
+  # the DOM <h1> win for title and only pull date_published from JSON-LD.
+  jsonld:
+    enabled: true
+    type_filter: WebPage
+    field_map:
+      date_published: datePublished
+      canonical_url: url
+
+  dom_fallback:
+    enabled: true
+    selectors:
+      title: "article.format-main-article h1"
+      body: "article.format-main-article div.contents"
+      author: "article.format-main-article div.author a.author"
+      category: "article.format-main-article div.categories a"
+
+  images:
+    container: "article.format-main-article div.contents"
+    base_url: https://riskandinsurance.com
+
+url_filters:
+  include:
+    - "^https://riskandinsurance\\.com/[^/]+/$"
+  exclude:
+    - "/category/"
+    - "/author/"
+    - "/tag/"
+    - "/page/"
+    - "/wp-content/"
+    - "/wp-admin/"
+    - "/wp-json/"
+    - "/feed/"
+    - "/articles-index/"
+    - "/about-us/"
+    - "/contact"
+    - "/sitemap"
+    - "\\?.*utm_"

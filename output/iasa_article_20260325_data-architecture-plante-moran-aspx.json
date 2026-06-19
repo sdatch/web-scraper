@@ -1,0 +1,23 @@
+{
+  "body": "<html><body><div class=\"ContentPanel\" id=\"mainContentWrapper\">\n<div data-height-offset=\"true\" id=\"masterMainBreadcrumb\"></div>\n<div id=\"ctl01_UserMessagesUpdatePanel\">\n</div>\n\n<div id=\"ctl01_TemplateBody_PublishUpdatePanel\">\n</div><div id=\"ctl01_TemplateBody_WebPartManager1___Drag\" style=\"display:none;position:absolute;z-index:32000;filter:alpha(opacity=75);\">\n</div>\n<div>\n<div class=\"row\">\n<div class=\"col-md-8\">\n<div class=\"ContentItemContainer\">\n<div class=\"WebPartZone\" id=\"WebPartZone1_Page1\">\n<div class=\"iMIS-WebPart\">\n<div class=\"ContentItemContainer\" id=\"ste_container_ciNewContentHtml_ccb9a62a66084dfebbcaa139af54f0ca\"><div id=\"ctl01_TemplateBody_WebPartManager1_gwpciNewContentHtml_ccb9a62a66084dfebbcaa139af54f0ca_ciNewContentHtml_ccb9a62a66084dfebbcaa139af54f0ca_Panel_NewContentHtml\">\n<h2><strong data-end=\"160\" data-start=\"98\">Data Architecture: The Bedrock of Better Business Outcomes</strong><br data-end=\"163\" data-start=\"160\"/>\n</h2>\n<p>As organizations generate and rely on more data than ever, having the right data architecture in place is critical to turning information into actionable insight. A strong foundation helps improve decision-making, supports scalability, and enables teams to respond more effectively to changing business needs. In this Plante Moran insight, experts explore why data architecture matters, common pitfalls organizations face, and how a thoughtful approach can drive better business outcomes across the enterprise.</p>\n<p><a class=\"btn TextButton PrimaryButton\" href=\"https://www.plantemoran.com/explore-our-thinking/insight/2023/02/data-architecture-the-bedrock-of-better-business-outcomes?utm_source=iasanewsletter&amp;utm_medium=email&amp;utm_campaign=PEN-FSG-INS-2025-IASA_newsletter\" target=\"_blank\">Read Article</a></p>\n</div></div>\n</div>\n</div>\n<div id=\"ctl01_TemplateBody_ContentPage1_downloadContainer\" style=\"display:none;\">\n<input id=\"ctl01_TemplateBody_ContentPage1_HiddenDownloadPathField\" name=\"ctl01$TemplateBody$ContentPage1$HiddenDownloadPathField\" type=\"hidden\"/><input id=\"ctl01_TemplateBody_ContentPage1_downloadButton\" name=\"ctl01$TemplateBody$ContentPage1$downloadButton\" style=\"display:none\" type=\"submit\" value=\"Download Path\"/>\n</div></div>\n</div>\n<div class=\"col-md-4\">\n<div class=\"ContentItemContainer\">\n<div class=\"WebPartZone\" id=\"WebPartZone2_Page1\">\n<div class=\"iMIS-WebPart\">\n<div class=\"ContentItemContainer\" id=\"ste_container_ciNewContentHtml2_5713d1093b6c43679f6ace04238d9667\"><div id=\"ctl01_TemplateBody_WebPartManager1_gwpciNewContentHtml2_5713d1093b6c43679f6ace04238d9667_ciNewContentHtml2_5713d1093b6c43679f6ace04238d9667_Panel_NewContentHtml2\">\n<a href=\"https://www.plantemoran.com/explore-our-thinking/insight/2023/02/data-architecture-the-bedrock-of-better-business-outcomes?utm_source=iasanewsletter&amp;utm_medium=email&amp;utm_campaign=PEN-FSG-INS-2025-IASA_newsletter\" target=\"_blank\"><img alt=\"\" src=\"/images/IASA/Insight%20Articles/Data_architecture_platne-moran.jpg?version=41D68642\"/></a>\n</div></div>\n</div>\n</div>\n<div id=\"ctl01_TemplateBody_ContentPage2_downloadContainer\" style=\"display:none;\">\n<input id=\"ctl01_TemplateBody_ContentPage2_HiddenDownloadPathField\" name=\"ctl01$TemplateBody$ContentPage2$HiddenDownloadPathField\" type=\"hidden\"/><input id=\"ctl01_TemplateBody_ContentPage2_downloadButton\" name=\"ctl01$TemplateBody$ContentPage2$downloadButton\" style=\"display:none\" type=\"submit\" value=\"Download Path\"/>\n</div></div>\n</div>\n</div>\n</div>\n</div></body></html>",
+  "canonical_url": "https://www.iasa.org/IASA/Insights/Insight-Articles/2026/Data_Architecture_Plante_Moran.aspx",
+  "brand": "iasa",
+  "content_type": "article",
+  "category": "Insurance Insights",
+  "categories": [
+    "Insurance Insights"
+  ],
+  "images": [
+    {
+      "url": "https://www.iasa.org/images/IASA/Insight%20Articles/Data_architecture_platne-moran.jpg?version=41D68642",
+      "alt": "",
+      "caption": ""
+    }
+  ],
+  "source_url": "https://www.iasa.org/IASA/Insights/Insight-Articles/2026/Data_Architecture_Plante_Moran.aspx",
+  "_scraped_at": "2026-03-25T11:35:40.332797+00:00",
+  "_missing_fields": [
+    "title"
+  ],
+  "_content_hash": "5e094d5a16e322618e4d862c1e8c6bf1f6f4d7cdbb4aa537d3df3ce348420656"
+}

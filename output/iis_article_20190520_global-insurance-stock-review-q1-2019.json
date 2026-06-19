@@ -1,0 +1,27 @@
+{
+  "author": "International Insurance Society",
+  "date_published": "2019-05-20",
+  "body": "<html><body><div class=\"field field--name-body field--type-text-with-summary field--label-hidden field__item\" property=\"schema:text\"><p> </p><p><a href=\"https://internationalinsurance.org/sites/default/files/2019-05/GISR_Q1_2019.pdf\"><strong>read the stock review &gt;</strong></a></p></div></body></html>",
+  "canonical_url": "https://www.internationalinsurance.org/global-insurance-stock-review-q1-2019",
+  "brand": "iis",
+  "content_type": "article",
+  "source_url": "https://www.internationalinsurance.org/global-insurance-stock-review-q1-2019",
+  "images": [
+    {
+      "url": "https://www.internationalinsurance.org/sites/default/files/styles/mekanic_480_mks3/public/2019-05/Capital%20Management%20default%20image_0.jpg?itok=Ern_dH23",
+      "alt": "Capital Management",
+      "caption": ""
+    }
+  ],
+  "publisher": "International Insurance Society",
+  "_scraped_at": "2026-04-28T11:42:02.048077+00:00",
+  "categories": [
+    "Sustainability in Risk & Insurance",
+    "GISR Stock Review"
+  ],
+  "category": "Sustainability in Risk & Insurance",
+  "_missing_fields": [
+    "title"
+  ],
+  "_content_hash": "332d4ad4a8f533e4aa5c5cb0a583a25624cc3d0fc8ca2ae68f113cac5e1a49ca"
+}

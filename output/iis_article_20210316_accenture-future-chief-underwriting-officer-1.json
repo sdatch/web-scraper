@@ -1,0 +1,29 @@
+{
+  "author": "Presented by Accenture",
+  "date_published": "2021-03-16",
+  "body": "<html><body><div class=\"field field--name-body field--type-text-with-summary field--label-hidden field__item\" property=\"schema:text\"><p> </p><p>Today, in most insurance organizations the underwriting function is fragmented into market segment or lines of business. These profit and loss centers drive demand for product, and technology solutions for their areas. Although this model can encourage internal competition and tactical success, it has also resulted in fragmented underwriting processes, operations, data and systems. As a consequence, insurers are left with IT environments and operations that are costly to maintain and difficult to change. They also lack the resources needed to drive strategic investments.</p><p><a href=\"https://www.internationalinsurance.org/sites/default/files/2021-03/The-Future-of-the-Chief-Underwriting-Officer-for-Insurance3_0.pdf\"><strong>read more &gt;</strong></a></p><p> </p></div></body></html>",
+  "canonical_url": "https://www.internationalinsurance.org/accenture-future-chief-underwriting-officer-1",
+  "brand": "iis",
+  "content_type": "article",
+  "source_url": "https://www.internationalinsurance.org/accenture-future-chief-underwriting-officer-1",
+  "images": [
+    {
+      "url": "https://www.internationalinsurance.org/sites/default/files/styles/mekanic_480_mks3/public/2026-04/Accenture%20Cover2.jpg?itok=32l4QCSW",
+      "alt": "Accenture: The Future of the Chief Underwriting Officer",
+      "caption": ""
+    }
+  ],
+  "publisher": "International Insurance Society",
+  "_scraped_at": "2026-04-28T11:19:02.484589+00:00",
+  "categories": [
+    "Insurance Talent & Workforce Strategy",
+    "Accenture",
+    "News",
+    "Insurance Technology & Innovation"
+  ],
+  "category": "Insurance Talent & Workforce Strategy",
+  "_missing_fields": [
+    "title"
+  ],
+  "_content_hash": "df89dff3f894112f43a93cb0ddae38bd5a38e645b6d2ac174b3f1b7257b82ea0"
+}

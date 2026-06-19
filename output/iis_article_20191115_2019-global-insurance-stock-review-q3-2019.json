@@ -1,0 +1,28 @@
+{
+  "author": "Mike Morrissey, CFA, IIS Special Advisor",
+  "date_published": "2019-11-15",
+  "body": "<html><body><div class=\"field field--name-body field--type-text-with-summary field--label-hidden field__item\" property=\"schema:text\"><p> </p><p>Insurance stocks around the world felt the markets’ malaise in the third quarter of this year, and in fact significantly underperformed the overall market in most places. While the Morgan Stanley All Countries World Index edged downward just 1% for the quarter, insurance stocks lost more than 5%, a significant drop for any three month period. It should be noted, though, that the third quarter is most often the poorest performing quarter of the year for insurance stocks, as it includes peak hurricane season. For the first nine months of 2019 the MSCI index was up just under 15% and the IIS global aggregate increased about 18% thanks to its strong first half showing.</p><p><a href=\"https://internationalinsurance.org/sites/default/files/2019-11/GISR_Q3_2019.pdf\"><strong>read more &gt;</strong></a></p></div></body></html>",
+  "canonical_url": "https://www.internationalinsurance.org/2019-global-insurance-stock-review-q3-2019",
+  "brand": "iis",
+  "content_type": "article",
+  "source_url": "https://www.internationalinsurance.org/2019-global-insurance-stock-review-q3-2019",
+  "images": [
+    {
+      "url": "https://www.internationalinsurance.org/sites/default/files/styles/mekanic_480_mks3/public/2019-11/Capital%20Management%20default%20image_0.jpg?itok=5gSg0Gpj",
+      "alt": "Capital Management",
+      "caption": ""
+    }
+  ],
+  "publisher": "International Insurance Society",
+  "_scraped_at": "2026-04-28T11:43:05.685164+00:00",
+  "categories": [
+    "Risk Management & Insurance Economics",
+    "GISR Stock Review",
+    "Global Insurance Market Trends"
+  ],
+  "category": "Risk Management & Insurance Economics",
+  "_missing_fields": [
+    "title"
+  ],
+  "_content_hash": "9a344bca4508a5a80e1d89beff37ebdaa19d571189ead06b364da9b9241cbc39"
+}

@@ -1,0 +1,27 @@
+{
+  "author": "The Institutes",
+  "date_published": "2019-03-07",
+  "body": "<html><body><div class=\"field field--name-body field--type-text-with-summary field--label-hidden field__item\" property=\"schema:text\"><p> </p><p><em><span>Available courtesy of The Institutes</span></em></p><p><a href=\"/sites/default/files/2019-03/Insurer%20Innovation%20Readiness%20Report.pdf\">Read more</a></p></div></body></html>",
+  "canonical_url": "https://www.internationalinsurance.org/insurance-innovation-pipe-dream-or-imminent-reality",
+  "brand": "iis",
+  "content_type": "article",
+  "source_url": "https://www.internationalinsurance.org/insurance-innovation-pipe-dream-or-imminent-reality",
+  "images": [
+    {
+      "url": "https://www.internationalinsurance.org/sites/default/files/styles/mekanic_480_mks3/public/2026-04/TI%20Logo%20477x322px_1.png?itok=4ZnbLG56",
+      "alt": "Insurance & Innovation: pipe dream or imminent reality?",
+      "caption": ""
+    }
+  ],
+  "publisher": "International Insurance Society",
+  "_scraped_at": "2026-04-28T11:39:07.718411+00:00",
+  "categories": [
+    "Insurance Technology & Innovation",
+    "News"
+  ],
+  "category": "Insurance Technology & Innovation",
+  "_missing_fields": [
+    "title"
+  ],
+  "_content_hash": "e57a4c853290d33e4a3d3d1fe00b1694add78ff063d96b24abfd30715b4f5674"
+}

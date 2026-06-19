@@ -1,0 +1,69 @@
+{
+  "title": "Does Lightning Strike Twice?",
+  "author": "Hugh O. Strawn, <NULL>",
+  "date_published": "2008-04-03",
+  "body": "<html><body><div><div><img align=\"left\" class=\"image_article_left\" src=\"/_images/_editions/200804/lightningtwice_00.jpg\"/>The day after a massive severe storm outbreak occurred in the lower Mississippi River Valley and into the Tennessee River Valley, a tornado damage claim landed on Keith’s desk. Keith is an adjuster for one of the 900 property and casualty insurance companies that are members of the Property Loss Research Bureau. The claim is no surprise to Keith as he had seen the geocoded extreme tornado and wind risk areas the day of the storms [Figure 1].</div><br/><div>A frequent reader of the PLRB Catastrophe Services’ daily Threats Assessment, he had reviewed the risk areas on the PLRB’s new Internet Mapping System (IMS). PLRB membership gives Keith, and all other company employees, access to the comprehensive PLRB database and use of their search engines to find coverage, weather/catastrophe, and educational data and information. Using the PLRB Mapper, he was able to compare his company’s geocoded policyholder database against the risk areas. As he suspected, there was  considerable commercial and personal lines exposure in part of the risk areas in Tennessee.</div><br/><div><img align=\"left\" class=\"image_article_left\" src=\"/_images/_editions/200804/lightningtwice_01.jpg\"/>The storms hit as predicted. The following morning there were hundreds of reports of severe storm damage issued with the Severe Storm and Occurrence Summary. The written reports, along with the charts and maps, showed damage in the areas where the company had policyholders.</div><br/><div>Then Keith needed to know if a tornado or wind damage was reported by a storm spotter or detected by radar where a policyholder’s insured building was located. With his PLRB username and password, he quickly logs on to the PLRB Web site and navigates to the Weather/Catastrophe section. Entering his search dates, city, state and ZIP code, and selecting tornado and wind damage information, Keith instantly learns that tornadoes, hail, and high wind were reported [Figure 2]. “Well,” he wonders, “how close to the address were the tornado or damaging winds reported?” Using IMS, Keith will be able to zero in on the location and determine if the area has been affected by the thunderstorm.</div><br/><div><img align=\"right\" class=\"image_article_right\" src=\"/_images/_editions/200804/lightningtwice_02.jpg\"/>The PLRB’s new Internet Mapping System will be officially introduced to insurer and affiliate members at the PLRB/LIRB 2008 Claims Conference, April 13-16, at the Hynes Convention Center in Boston, Massachusetts. It will allow Keith, and all PLRB members, to accurately geocode the address of a homeowner’s claim and then to pull all available data from the Catastrophe Services database for the date range being researched for that address. The data then will be displayed on a map and a spatial view of the information will be provided making it easier to analyze and interpret.</div><br/><div><img align=\"left\" class=\"image_article_left\" src=\"/_images/_editions/200804/lightningtwice_03.jpg\"/><b>Street Level Detail</b><br/>The IMS will allow users to begin with a map of the United States and navigate down to street level for precision analysis of the event [Figure 3]. As the research moves deeper into the map, landmark details such as bodies of water, railroads, airports and parks will be displayed to help orient the user [Figure 4].</div><br/><div><b>The Advantage of IMS</b><br/>The type of data and information needed by Keith has been available for years in the Catastrophe Services historical database, and can be researched online. But search answers previously were displayed in text format only, and typically got as close as the zip code. If Keith had geographic information system (GIS) software, such as the PLRB Mapper, ArcMap or MapInfo, he could go through the process of downloading the appropriate files, loading them into the GIS program, and comparing the data against his company’s geocoded policyholder database. But he has a lot of claims to adjust and needs to work quickly as well as accurately. The new PLRB IMS will help him meet those goals.</div><br/><div><img align=\"right\" class=\"image_article_right\" src=\"/_images/_editions/200804/lightningtwice_04.jpg\"/>When Keith goes to the PLRB Catastrophe Services search engine, he can enter the address of the property to be researched, the date or dates to be reviewed, and what data is to be researched. In Keith’s tornado and wind case, he will find files that place points on the latitude and longitude of the damages reported by fire department storm spotters. He also will be able to pull in the appropriate National Weather Service NEXRAD radar image that has been geocoded by the PLRB. These two pieces of data are contained in Shapefiles (.shp)—the designation of files in which the geocoded data is stored. These files will be imported into a street-level map created by the IMS specifically for his search. The map, which also displays the geocoded location of the property being researched, will show him that a severe thunderstorm with a tornado and damaging wind occurred at the address in question.</div><br/><div>If no tornadoes or high winds are detected at the address being researched, Keith will be able to calculate how close to the address the nearest reported events occurred.</div><br/><div><img align=\"right\" class=\"image_article_right\" src=\"/_images/_editions/200804/lightningtwice_05.jpg\"/><b>Lightning Probability Searches</b><br/>While Keith is working on the tornado and wind damage claim, the claim files keep piling up in the office. On the other side of the room, Amy has received a personal lines claim for lightning damage to a digital flat screen television unit. The insureds told their agent that lightning during a severe thunderstorm was “pretty dramatic.” Eventually, there was one strike that hit the utility pole directly behind their house with a blinding strobe light-like flash. The power went out immediately. After it was restored several hours later, the insureds discovered that the television no longer functioned.</div><br/><div>After verifying coverage, Amy needs to answer the question, “Was there a possibility of lightning in the vicinity of the house?” Since the company is a member of the PLRB, she can go to the Catastrophe Services Web site and research the probability of lightning at or near the address.</div><br/><div><img align=\"left\" class=\"image_article_left\" src=\"/_images/_editions/200804/lightningtwice_06.jpg\" style=\"margin-bottom: 10px;\"/>Using the IMS, Amy will be able to enter the address of the property that was reportedly struck. It will geocode the address and locate the exact position of the building. As part of her research, she will also enter the date range to be searched. The PLRB’s Lightning Probability Chart Shapefiles will be one of the options she may select for her search. Amy’s company uses the Lightning Probability Chart section regularly to research so-called “routine” lightning claims.</div><br/><div>Lightning Probability Charts are produced hourly by the National Oceanic and Atmospheric Administration (NOAA). The PLRB captures, geocodes and makes them available for research. Geocoded charts allow address-specific probability research. A click of the mouse will place the outline of any lightning probability file on the map.  This will allow Amy to see if the house in question was within, or near, an area where lightning was forecast to strike. The charts display the probability of two cloud-to-ground strikes within a three-hour period—probability is displayed on a scale from 10% to 90%.</div><br/><div><img align=\"right\" class=\"image_article_right\" src=\"/_images/_editions/200804/lightningtwice_07.jpg\"/><b>Point Files</b><br/>The PLRB Catastrophe Services database contains geocoded data and information covering many of the events that cause property damage. The database includes reports by trained National Weather Service severe weather spotters, such as firefighters or police officers. These are displayed as points on the map to report locations of hail, wind, tornadoes, flash flooding, freezing rain and ice storms. This data is converted to GIS format and saved as a point file, in which the data on a spreadsheet is converted to information that can be displayed on a map.</div><br/><div>In a PLRB Severe Storm and Occurrence Summary report, there will be a scattering of points that reflect actual observations. Clicking on a point displayed on the map will show the researcher all associated information. The typical PLRB point would include the type of event, such as wind, as well as information like the velocity and damage it might have caused.</div><br/><div><b>Shapefiles</b><br/>The database includes data geocoded into Shapefiles, which is a universally usable GIS format. The typical PLRB Shapefile contains hail and wind radar data, gathered every 15-minutes from the National Weather Service NEXRAD system. The Lightning Probability data, gathered every hour, also is packaged in this format. Additionally, any forecast data such as hurricane tracks, extremely severe weather forecasts and extremely critical wildland fire conditions are saved as Shapefiles.</div><br/><div>When a Shapefile is displayed on the IMS, or in a stand-alone GIS program, the researcher typically will see a polygon that outlines an area. The hail and wind NEXRAD Shapefiles will display numerous information points that report the estimated size of the hail or the estimated velocity of the wind as measured by radar. Data from the NEXRAD files will fill in the information from areas where there was no actual observation and report.</div><br/><div><b>Member Benefit</b><br/>The IMS is a no-fee member benefit for employees of member insurance companies. With insurance company membership in the PLRB, all company employees have full access to the catastrophe/weather data, coverage information and educational materials produced by the PLRB. Affiliate membership provides unlimited no-fee access to PLRB weather/catastrophe data, as well as all educational materials.</div><div align=\"center\"><img src=\"/_images/line_break_lite.jpg\" vspace=\"15\"/></div><div><b>Hugh O. Strawn</b> is vice president - <i>Catastrophe Services with the Property Loss Research Bureau</i> based in Downers Grove, Ill. He can be reached at <a class=\"article_link\" href=\"mailto:hstrawn@plrb.org\">hstrawn@plrb.org</a></div><br/></div></body></html>",
+  "canonical_url": "https://www.theclm.org/Magazine/articles/does-lightning-strike-twice/132",
+  "brand": "clm",
+  "content_type": "article",
+  "category": "Archive",
+  "categories": [
+    "Archive"
+  ],
+  "images": [
+    {
+      "url": "https://clmmagazines3.imgix.net/?w=750&h=250&fit=crop&crop=focalpoint",
+      "alt": "Photo",
+      "caption": ""
+    },
+    {
+      "url": "https://www.theclm.org/_images/_editions/200804/lightningtwice_00.jpg",
+      "alt": "",
+      "caption": ""
+    },
+    {
+      "url": "https://www.theclm.org/_images/_editions/200804/lightningtwice_01.jpg",
+      "alt": "",
+      "caption": ""
+    },
+    {
+      "url": "https://www.theclm.org/_images/_editions/200804/lightningtwice_02.jpg",
+      "alt": "",
+      "caption": ""
+    },
+    {
+      "url": "https://www.theclm.org/_images/_editions/200804/lightningtwice_03.jpg",
+      "alt": "",
+      "caption": ""
+    },
+    {
+      "url": "https://www.theclm.org/_images/_editions/200804/lightningtwice_04.jpg",
+      "alt": "",
+      "caption": ""
+    },
+    {
+      "url": "https://www.theclm.org/_images/_editions/200804/lightningtwice_05.jpg",
+      "alt": "",
+      "caption": ""
+    },
+    {
+      "url": "https://www.theclm.org/_images/_editions/200804/lightningtwice_06.jpg",
+      "alt": "",
+      "caption": ""
+    },
+    {
+      "url": "https://www.theclm.org/_images/_editions/200804/lightningtwice_07.jpg",
+      "alt": "",
+      "caption": ""
+    },
+    {
+      "url": "https://www.theclm.org/_images/line_break_lite.jpg",
+      "alt": "",
+      "caption": ""
+    }
+  ],
+  "publisher": "The CLM",
+  "source_url": "https://www.theclm.org/Magazine/articles/does-lightning-strike-twice/132",
+  "_scraped_at": "2026-05-10T11:11:32.977340+00:00",
+  "_content_hash": "7c071efcc561c8b23e440d2172aa1ae7a446a34ba472e400db0ff2a18880a728"
+}

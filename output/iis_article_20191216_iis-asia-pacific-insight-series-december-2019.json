@@ -1,0 +1,27 @@
+{
+  "author": "Pacific Insurance Conference (PIC)",
+  "date_published": "2019-12-16",
+  "body": "<html><body><div class=\"field field--name-body field--type-text-with-summary field--label-hidden field__item\" property=\"schema:text\"><p> </p><p>This issue features:<br/>• Highlights from PIC and SIRC<br/>• IIS Story of the Quarter: Green Delta CEO receives “Woman Leader of the Year” award<br/>• Summary of recent IIS activities in the region<br/>• Member’s Experience: CEO interview<br/>• New Member’s Category - Welcome Insurtechs into our Associate Members category<br/><br/><a href=\"/sites/default/files/2019-12/IIS%20Asia%20Pacific%20Insight%20Series%20-%20December%202019.pdf\">Learn more</a></p></div></body></html>",
+  "canonical_url": "https://www.internationalinsurance.org/iis-asia-pacific-insight-series-december-2019",
+  "brand": "iis",
+  "content_type": "article",
+  "source_url": "https://www.internationalinsurance.org/iis-asia-pacific-insight-series-december-2019",
+  "images": [
+    {
+      "url": "https://www.internationalinsurance.org/sites/default/files/styles/mekanic_480_mks3/public/2026-04/IIS_logo_Variation_477x322px_15.jpg?itok=faoMgJUX",
+      "alt": "IIS Asia Pacific Insight Series - December 2019",
+      "caption": ""
+    }
+  ],
+  "publisher": "International Insurance Society",
+  "_scraped_at": "2026-04-28T11:43:23.315575+00:00",
+  "categories": [
+    "News",
+    "Pacific Insurance Conference (PIC)"
+  ],
+  "category": "News",
+  "_missing_fields": [
+    "title"
+  ],
+  "_content_hash": "643d98b26e1bb6c8cd4fbb463d3ac6b0f82e5971c43256616175d416f9ec3e78"
+}

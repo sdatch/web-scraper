@@ -1,0 +1,27 @@
+{
+  "author": "The Griffith Foundation",
+  "date_published": "2019-03-08",
+  "body": "<html><body><div class=\"field field--name-body field--type-text-with-summary field--label-hidden field__item\" property=\"schema:text\"><p> </p><p><em><span>Available courtesy of The Griffith Foundation</span></em></p><p><a href=\"https://griffithfoundationwevents.webex.com/griffithfoundationwevents/lsr.php?RCID=62b8b58f16ad7460d24df8e5d14288cf\">View webinar</a></p></div></body></html>",
+  "canonical_url": "https://www.internationalinsurance.org/blockchain-technology-and-its-impact-insurance-overview-public-policymakers",
+  "brand": "iis",
+  "content_type": "article",
+  "source_url": "https://www.internationalinsurance.org/blockchain-technology-and-its-impact-insurance-overview-public-policymakers",
+  "images": [
+    {
+      "url": "https://www.internationalinsurance.org/sites/default/files/styles/mekanic_480_mks3/public/2026-04/TI%20Griffith%20477x322px_1.png?itok=cbmzQdfO",
+      "alt": "Blockchain Technology and Its Impact on Insurance: An Overview for Public Policymakers",
+      "caption": ""
+    }
+  ],
+  "publisher": "International Insurance Society",
+  "_scraped_at": "2026-04-28T11:40:12.530290+00:00",
+  "categories": [
+    "Insurance Technology & Innovation",
+    "News"
+  ],
+  "category": "Insurance Technology & Innovation",
+  "_missing_fields": [
+    "title"
+  ],
+  "_content_hash": "4c6774629cd7069b908636f3b3da906264aa16d7d399eea7ae35e67c8d3ea3e7"
+}

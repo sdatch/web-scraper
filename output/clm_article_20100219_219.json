@@ -1,0 +1,34 @@
+{
+  "title": "Playing Nicely with Your Claims Team",
+  "author": "Jackie Payne",
+  "date_published": "2010-02-19",
+  "body": "<html><body><div><div><img align=\"left\" class=\"image_article_left\" src=\"/_images/_editions/201002/playing-nicely-01.jpg\"/>Communication with various workers’ compensation entities is lacking to say the least. When your claims management, bill review and case management software are not in sync, thousands of dollars can be paid out unnecessarily. So how can you bridge the gap and ensure everyone is playing nicely together?</div><br/><div>A typical non-litigated workers’ compensation case involves six parties: physicians, office staff, claims examiners, nurse case managers, physician advisors and bill review specialists. There is a pre-approval process for treatment requests with timeframes and communication variances throughout; however, if all goes as planned, this is how it works in most states:</div><ol><li>The physician examines the patient and determines the diagnosis and treatment plan.</li><li>The physician’s office staff contacts the claims office for treatment-plan approval and, in some states, must do so in writing.</li><li>A nurse case manager gets involved for pre-authorization and runs the recommended treatment plan against medically recognized treatment protocols.</li><li>A physician advisor may get involved in the decision-making process, typically when it needs to be modified or denied.</li><li>The decision to approve, modify or deny the claim is communicated to the bill review department. When the bill comes in, the bill review department adjudicates the bill to the treatment determination.</li></ol><div>With all these players involved, this process rarely goes as planned. Sometimes the nurse case manager or claims personnel modifies the treatment plan and doesn’t communicate this information, so the bill review department doesn’t learn about it until it is too late and the claim is already paid—money lost.</div><br/><div>At a minimum, the bill review department should be aware of:</div><ul><li>Diagnosis code</li><li>Procedure code</li><li>Tax identification of the requesting provider along with their contact information</li><li>Date range of the treatment request.</li><li>If the treatment was approved, modified, delayed or denied. </li></ul><div>Without this information, they are working in the dark.</div><br/><div>Sometimes the error is not the result of humans, but of technology. The carrier, TPA or self-insured employer may be operating in three or more software platforms, and, typically, the various systems do not “talk” to each other when it comes to treatment authorizations. Thousands of dollars can be paid out unnecessarily just because of bad communication, no matter if it is human or computerized.</div><div><b>Eliminating Errors</b></div><div>As a claims examiner, it can be difficult to remember what is approved or denied if it is not automated. First, there has to be a sound communication plan and partnership with case management and bill review partners. Even if each is a different entity or in a different department, there should be seamlessness. Work out the details of how, when and who should be communicated with on the treatment requests. Go back regularly to confirm the process is working and tweak it if needed.</div><br/><div>If there’s a choice in vendor partners, it’s optimal to keep it all in the same family. There are two ways of accomplishing this.</div><ol><li>Keep all cost containment solutions, meaning nurse case management and bill review, with one vendor. Make sure they demonstrate how the treatment decisions are communicated and then reported. Also, confirm that the vendor is working on a single platform. Some vendors lease multiple software systems or have built separate systems.<br/>Some believe there are pitfalls in using one vendor—the fox watching the henhouse so to speak, but this can be overcome by setting up clear expectations, performance goals and reporting requirements.</li><li>Use the same software solutions for claims management, bill review and nurse case management. With a one-system approach, all systems will be “talking” to each other, reducing the chance for errors. There are a handful of software solutions specializing in workers’ compensation that accomplish this task. This will ensure that each department, claims, case management and bill review are working in the same software environment and have real-time status of the claim.</li></ol><div>Even if an outside nurse case management vendor is used, the insurer’s software package can be used. Make sure to demo the system thoroughly, though. Play in their sandbox and dig deep. Find out how different processes are handled, walk through the life of a claim, take enough time to thoroughly flush out the software. This process will take more than a couple of hours; it may take a couple of days. You will be amazed what comes out in the process. It will be worth the extra homework on your part.</div><br/><div>There are ways to play nicely with your vendors. If proper care is taken in the communication process from the beginning, there won’t be a need to finger point or call each other names. In the end, the information won’t be lost, and appropriate savings will occur.</div><div align=\"center\"><img src=\"/_images/line_break_lite.jpg\" vspace=\"15\"/></div><div><b>Jackie Payne</b> is vice president of managed care operations at <i>Aon eSolutions</i>. She oversees the bill review and case management service and software products.</div></div></body></html>",
+  "canonical_url": "https://www.theclm.org/Magazine/articles/playing-nicely-with-your-claims-team/219",
+  "brand": "clm",
+  "content_type": "article",
+  "category": "Archive",
+  "categories": [
+    "Archive"
+  ],
+  "images": [
+    {
+      "url": "https://clmmagazines3.imgix.net/?w=750&h=250&fit=crop&crop=focalpoint",
+      "alt": "Photo",
+      "caption": ""
+    },
+    {
+      "url": "https://www.theclm.org/_images/_editions/201002/playing-nicely-01.jpg",
+      "alt": "",
+      "caption": ""
+    },
+    {
+      "url": "https://www.theclm.org/_images/line_break_lite.jpg",
+      "alt": "",
+      "caption": ""
+    }
+  ],
+  "publisher": "The CLM",
+  "source_url": "https://www.theclm.org/Magazine/articles/playing-nicely-with-your-claims-team/219",
+  "_scraped_at": "2026-05-10T11:26:49.749515+00:00",
+  "_content_hash": "c7391969309902308e6885bbb3dfb19a7f846d4fcb8e9f31490f92e3e274a9a7"
+}

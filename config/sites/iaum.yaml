@@ -1,0 +1,71 @@
+brand: iaum
+brand_name: Insurance Assets Under Management
+base_url: https://insuranceaum.com
+
+# IAUM uses a sitemap for content discovery rather than paginated category listings.
+# The spider fetches the sitemap XML and filters article URLs from it.
+sitemap_url: https://insuranceaum.com/sitemap.xml
+
+# Category pages exist at /category/topics/{slug} but are used only for reference.
+# Categories are extracted per-article from JSON-LD "about" field.
+categories:
+  - Alternatives
+  - Careers
+  - Cryptocurrency
+  - Data and Technology
+  - ESG
+  - ETFs
+  - Economy
+  - Executive Spotlight
+  - Macro Strategy
+  - Multi-Asset
+  - Private Credit
+  - Private Equity
+  - Public Credit
+  - Public Equity
+  - Real Assets
+  - Real Estate
+  - Risk Management
+  - Regulation and Accounting
+
+extraction:
+  jsonld:
+    enabled: true
+    type_filter: NewsArticle
+    field_map:
+      title: name
+      date_published: datePublished
+      description: description
+      canonical_url: "@id"
+      # "about" returns a list of category strings
+      categories: about
+
+  dom_fallback:
+    enabled: true
+    selectors:
+      body: "article .field--name-body, article .node__content, .node--type-article .field--name-body"
+      title: "h1"
+      author: ".field--name-field-author, .node__meta .field--name-uid"
+      # IAUM does not use <time datetime>; date comes from JSON-LD primarily
+
+  images:
+    container: "article .field--name-body, article .node__content"
+    base_url: https://insuranceaum.com
+    # IAUM uses lazy-loaded images with data-src attribute
+    lazy_load: true
+
+url_filters:
+  include:
+    - "^https://insuranceaum\\.com/.+"
+  exclude:
+    - "/user/"
+    - "/admin/"
+    - "/search/"
+    - "/node/"
+    - "/category/"
+    - "/events"
+    - "/podcast-center"
+    - "/members"
+    - "/professional-learning"
+    - "/sitemap\\.xml"
+    - "\\?.*utm_"

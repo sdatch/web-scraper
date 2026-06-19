@@ -1,0 +1,27 @@
+{
+  "author": "International Insurance Society",
+  "date_published": "2020-06-12",
+  "body": "<html><body><div class=\"field field--name-body field--type-text-with-summary field--label-hidden field__item\" property=\"schema:text\"><p> </p><p><a href=\"https://www.internationalinsurance.org/sites/default/files/2020-06/Global%20Concerns%20Survey%20-2019.pdf\">Turning Insight Into Opportunity - click here to view presentation</a></p></div></body></html>",
+  "canonical_url": "https://www.internationalinsurance.org/global-concerns-survey",
+  "brand": "iis",
+  "content_type": "article",
+  "source_url": "https://www.internationalinsurance.org/global-concerns-survey",
+  "images": [
+    {
+      "url": "https://www.internationalinsurance.org/sites/default/files/styles/mekanic_480_mks3/public/2020-06/IIS_affiliateofTI_NewsIISWebsite_0.jpg?itok=ulYE_G_l",
+      "alt": "2019 Global Concerns Survey",
+      "caption": ""
+    }
+  ],
+  "publisher": "International Insurance Society",
+  "_scraped_at": "2026-04-28T21:54:04.604729+00:00",
+  "categories": [
+    "Global Insurance Market Trends",
+    "News"
+  ],
+  "category": "Global Insurance Market Trends",
+  "_missing_fields": [
+    "title"
+  ],
+  "_content_hash": "c98bd415f987bdcb3accefb594ae6ea57b1e9795a0f1606bd760228874549f5f"
+}

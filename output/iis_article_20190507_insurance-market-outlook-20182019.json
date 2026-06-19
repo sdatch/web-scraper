@@ -1,0 +1,28 @@
+{
+  "author": "Presented by Munich Re",
+  "date_published": "2019-05-07",
+  "body": "<html><body><div class=\"field field--name-body field--type-text-with-summary field--label-hidden field__item\" property=\"schema:text\"><p> </p><p><em>A report by Munich RE</em></p><p><a href=\"https://www.munichre.com/topics-online/en/economy/insurance-markets/outlook-2018-2019.html%20\">Click here to learn more</a></p></div></body></html>",
+  "canonical_url": "https://www.internationalinsurance.org/insurance-market-outlook-20182019",
+  "brand": "iis",
+  "content_type": "article",
+  "source_url": "https://www.internationalinsurance.org/insurance-market-outlook-20182019",
+  "images": [
+    {
+      "url": "https://www.internationalinsurance.org/sites/default/files/styles/mekanic_480_mks3/public/2026-04/Munich%20Re%20Logo.png?itok=x6e5SoT0",
+      "alt": "Insurance Market Outlook for 2018/2019",
+      "caption": ""
+    }
+  ],
+  "publisher": "International Insurance Society",
+  "_scraped_at": "2026-04-28T11:40:38.431617+00:00",
+  "categories": [
+    "Insurance Technology & Innovation",
+    "News",
+    "Risk Management & Insurance Economics"
+  ],
+  "category": "Insurance Technology & Innovation",
+  "_missing_fields": [
+    "title"
+  ],
+  "_content_hash": "9c1098b8a8d77a326ded29c433701bb4dfb139d64de646a21c4a78c9f16e633d"
+}

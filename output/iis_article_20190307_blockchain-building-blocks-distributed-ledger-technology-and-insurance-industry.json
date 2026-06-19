@@ -1,0 +1,27 @@
+{
+  "author": "The Institutes",
+  "date_published": "2019-03-07",
+  "body": "<html><body><div class=\"field field--name-body field--type-text-with-summary field--label-hidden field__item\" property=\"schema:text\"><p> </p><p><em><span>Available courtesy of The Institutes</span></em></p><p><a href=\"/sites/default/files/2019-03/Blockchain_Insurance_2018_0.pdf\"><span>Learn more</span></a></p></div></body></html>",
+  "canonical_url": "https://www.internationalinsurance.org/blockchain-building-blocks-distributed-ledger-technology-and-insurance-industry",
+  "brand": "iis",
+  "content_type": "article",
+  "source_url": "https://www.internationalinsurance.org/blockchain-building-blocks-distributed-ledger-technology-and-insurance-industry",
+  "images": [
+    {
+      "url": "https://www.internationalinsurance.org/sites/default/files/styles/mekanic_480_mks3/public/2026-04/TI%20Logo%20477x322px_0.png?itok=l5QHmnU3",
+      "alt": "Blockchain Building Blocks: distributed ledger technology and the insurance industry",
+      "caption": ""
+    }
+  ],
+  "publisher": "International Insurance Society",
+  "_scraped_at": "2026-04-28T11:24:21.076386+00:00",
+  "categories": [
+    "Risk Management & Insurance Economics",
+    "News"
+  ],
+  "category": "Risk Management & Insurance Economics",
+  "_missing_fields": [
+    "title"
+  ],
+  "_content_hash": "1ab5423741f75b593a99c036bc9ac76e82a860b6999a8bea2fea259c24770fd7"
+}

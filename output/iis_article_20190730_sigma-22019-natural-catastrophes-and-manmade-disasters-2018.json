@@ -1,0 +1,28 @@
+{
+  "author": "Presented by Swiss Re",
+  "date_published": "2019-07-30",
+  "body": "<html><body><div class=\"field field--name-body field--type-text-with-summary field--label-hidden field__item\" property=\"schema:text\"><p> </p><p><em><span>Swiss Re Institute</span></em></p><p>Insured losses from catastrophe events globally were USD 85 billion in 2018, the fourth highest on sigma records. More than half of the total was the accumulation of losses from smaller and mid-sized secondary natural catastrophes. The total was well below the peak loss years of 2017, 2011 and 2005, reflecting the absence of megaloss generating events. The combined insurance pay outs for natural catastrophe events in 2017 and 2018 were USD 219 billion, the highest ever for a consecutive two-year period.</p><p><a href=\"https://www.swissre.com/dam/jcr:c37eb0e4-c0b9-4a9f-9954-3d0bb4339bfd/sigma2_2019_en.pdf\"><strong>learn more &gt;</strong><span><strong> </strong></span></a></p></div></body></html>",
+  "canonical_url": "https://www.internationalinsurance.org/sigma-22019-natural-catastrophes-and-manmade-disasters-2018",
+  "brand": "iis",
+  "content_type": "article",
+  "source_url": "https://www.internationalinsurance.org/sigma-22019-natural-catastrophes-and-manmade-disasters-2018",
+  "images": [
+    {
+      "url": "https://www.internationalinsurance.org/sites/default/files/styles/mekanic_480_mks3/public/2026-04/Swiss_477x322px.jpg?itok=5_7vPv8S",
+      "alt": "Sigma 2/2019: Natural catastrophes and manmade disasters in 2018",
+      "caption": ""
+    }
+  ],
+  "publisher": "International Insurance Society",
+  "_scraped_at": "2026-04-28T11:23:00.762835+00:00",
+  "categories": [
+    "Sustainability in Risk & Insurance",
+    "News",
+    "Swiss Re"
+  ],
+  "category": "Sustainability in Risk & Insurance",
+  "_missing_fields": [
+    "title"
+  ],
+  "_content_hash": "66c49a0301da47d8b2f82941cb1abec1c2f9a3ab04d6198f059533821cb69556"
+}

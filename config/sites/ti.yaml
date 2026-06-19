@@ -1,0 +1,38 @@
+brand: ti
+brand_name: The Institutes
+base_url: https://web.theinstitutes.org
+
+# TI.org uses a sitemap for content discovery. URL filters restrict
+# scraping to the three primary content areas.
+sitemap_url: https://web.theinstitutes.org/sitemap.xml
+
+extraction:
+  jsonld:
+    enabled: true
+    type_filter: EducationalOccupationalProgram
+    field_map:
+      title: name
+      description: description
+      canonical_url: url
+
+  dom_fallback:
+    enabled: true
+    selectors:
+      title: "h1.hero__title"
+      body: "div#block-ti-west-content"
+
+  images:
+    container: "div#block-ti-west-content"
+    base_url: https://web.theinstitutes.org
+
+url_filters:
+  include:
+    - "^https://web\\.theinstitutes\\.org/designations/.+"
+    - "^https://web\\.theinstitutes\\.org/ceu/.+"
+    - "^https://web\\.theinstitutes\\.org/agents-and-brokers/.+"
+  exclude:
+    - "/user/"
+    - "/admin/"
+    - "/search/"
+    - "/node/"
+    - "\\?.*utm_"

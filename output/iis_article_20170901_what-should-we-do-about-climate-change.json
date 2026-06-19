@@ -1,0 +1,27 @@
+{
+  "author": "Wellington Management Company LLP",
+  "date_published": "2017-09-01",
+  "body": "<html><body><div class=\"field field--name-body field--type-text-with-summary field--label-hidden field__item\" property=\"schema:text\"><p><br/><strong>Presented by Wellington Management</strong></p><p>Amid recent extreme weather events, many clients have asked for insights on climate change. Wellington Management's Macroanalyst, Spencer Glendon, has spent several years researching climate science and writing about it for our investors. Here we share excerpts from a series of his notes to our rm.</p><p><a href=\"https://internationalinsurance.org/sites/default/files/2018-01/What-should-we-do-about-climate-change_0.pdf\"><strong>read more &gt;</strong></a></p></div></body></html>",
+  "canonical_url": "https://www.internationalinsurance.org/what-should-we-do-about-climate-change",
+  "brand": "iis",
+  "content_type": "article",
+  "source_url": "https://www.internationalinsurance.org/what-should-we-do-about-climate-change",
+  "images": [
+    {
+      "url": "https://www.internationalinsurance.org/sites/default/files/styles/mekanic_480_mks3/public/2018-01/Resilience%20default%20image_0.jpg?itok=G0mfFJcn",
+      "alt": "Resilience",
+      "caption": ""
+    }
+  ],
+  "publisher": "International Insurance Society",
+  "_scraped_at": "2026-04-28T11:25:57.234586+00:00",
+  "categories": [
+    "Sustainability in Risk & Insurance",
+    "Wellington Management"
+  ],
+  "category": "Sustainability in Risk & Insurance",
+  "_missing_fields": [
+    "title"
+  ],
+  "_content_hash": "4ead62878bc1be488aead98cdff9dc0a4993ccc1bc00932f9a003940302f9e15"
+}

@@ -1,0 +1,22 @@
+{
+  "date_published": "2018-01-02",
+  "body": "<html><body><div class=\"field field--name-body field--type-text-with-summary field--label-hidden field__item\" property=\"schema:text\"><p>IIS is getting a huge upgrade to its laser-oriented insurance courses.</p></div></body></html>",
+  "canonical_url": "https://www.internationalinsurance.org/iis-upgrading-its-lasers",
+  "brand": "iis",
+  "content_type": "article",
+  "source_url": "https://www.internationalinsurance.org/iis-upgrading-its-lasers",
+  "images": [
+    {
+      "url": "https://www.internationalinsurance.org/sites/default/files/styles/mekanic_480_mks3/public/2018-01/Stocksy_txp3b5b3001EHj100_Medium_1257047_0.jpg?itok=jZLSVGWG",
+      "alt": "man at laptop",
+      "caption": ""
+    }
+  ],
+  "publisher": "International Insurance Society",
+  "_scraped_at": "2026-04-28T11:37:21.277029+00:00",
+  "category": "Insights & Research",
+  "_missing_fields": [
+    "title"
+  ],
+  "_content_hash": "4b4272ffd2d89be0c33b21c43b85d1d6f692ff5c7acc95859e3339ecf0002167"
+}

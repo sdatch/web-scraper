@@ -1,0 +1,44 @@
+brand: griffith
+brand_name: The Institutes Griffith Foundation
+base_url: https://www.griffithfoundation.org
+
+entry_points:
+  - url: https://www.griffithfoundation.org/news
+    category: News
+  - url: https://www.griffithfoundation.org/programming
+    category: Programming
+  - url: https://www.griffithfoundation.org/thought-leadership
+    category: Thought Leadership
+
+listing:
+  # News and Thought Leadership use "Read More" links; Programming uses h2 title links
+  link_selector: "h2 a[href]"
+  read_more_xpath: "//a[contains(translate(text(), 'ABCDEFGHIJKLMNOPQRSTUVWXYZ', 'abcdefghijklmnopqrstuvwxyz'), 'read more')]/@href"
+
+extraction:
+  jsonld:
+    enabled: true
+    type_filter: Article
+    field_map:
+      title: headline
+      author: author
+      date_published: datePublished
+      canonical_url: url
+
+  dom_fallback:
+    enabled: true
+    selectors:
+      body: "article .sqs-block-content"
+      title: "h1"
+
+  images:
+    container: "article .sqs-block-content"
+    base_url: https://www.griffithfoundation.org
+
+url_filters:
+  include:
+    - "^https://www\\.griffithfoundation\\.org/(news|programming|thought-leadership)/.+"
+  exclude:
+    - "/\\?author="
+    - "/category/"
+    - "\\?.*utm_"

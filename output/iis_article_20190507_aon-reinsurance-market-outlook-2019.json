@@ -1,0 +1,27 @@
+{
+  "author": "Presented by Aon",
+  "date_published": "2019-05-07",
+  "body": "<html><body><div class=\"field field--name-body field--type-text-with-summary field--label-hidden field__item\" property=\"schema:text\"><p> </p><p><em>A report by Aon</em></p><p><a href=\"http://thoughtleadership.aonbenfield.com/Documents/20190104-ab-analytics-rmo-january.pdf\">Click here to learn more</a></p></div></body></html>",
+  "canonical_url": "https://www.internationalinsurance.org/aon-reinsurance-market-outlook-2019",
+  "brand": "iis",
+  "content_type": "article",
+  "source_url": "https://www.internationalinsurance.org/aon-reinsurance-market-outlook-2019",
+  "images": [
+    {
+      "url": "https://www.internationalinsurance.org/sites/default/files/styles/mekanic_480_mks3/public/2026-04/Aon%20logo%20477x322px_3.png?itok=Gz8uDiR1",
+      "alt": "Aon Reinsurance Market Outlook (2019)",
+      "caption": ""
+    }
+  ],
+  "publisher": "International Insurance Society",
+  "_scraped_at": "2026-04-28T11:41:14.665419+00:00",
+  "categories": [
+    "Insurance Technology & Innovation",
+    "News"
+  ],
+  "category": "Insurance Technology & Innovation",
+  "_missing_fields": [
+    "title"
+  ],
+  "_content_hash": "ff75cfc0de2f035fab952d89d091aa2ab4176e58069913aa8ad7d434c3ab03cb"
+}

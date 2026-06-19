@@ -1,0 +1,27 @@
+{
+  "author": "Wellington Management Company LLP",
+  "date_published": "2017-12-01",
+  "body": "<html><body><div class=\"field field--name-body field--type-text-with-summary field--label-hidden field__item\" property=\"schema:text\"><p><br/>Wellington Management's, Thomas Mucha, Global Macroanalysis Advisor, covers his top 10 list of books on the forces shaping geopolitics and policy today, from the rise of China to the threat of climate change.</p><p><a href=\"https://internationalinsurance.org/sites/default/files/2018-01/Good-reads_Geopolitical-edition_US.pdf\"><strong>learn more &gt;</strong></a></p></div></body></html>",
+  "canonical_url": "https://www.internationalinsurance.org/good-reads-geopolitical-edition",
+  "brand": "iis",
+  "content_type": "article",
+  "source_url": "https://www.internationalinsurance.org/good-reads-geopolitical-edition",
+  "images": [
+    {
+      "url": "https://www.internationalinsurance.org/sites/default/files/styles/mekanic_480_mks3/public/2018-01/Leadership%20default%20image.jpg?itok=zJ9Pa1TQ",
+      "alt": "Leadership",
+      "caption": ""
+    }
+  ],
+  "publisher": "International Insurance Society",
+  "_scraped_at": "2026-04-28T11:24:56.437069+00:00",
+  "categories": [
+    "Global Insurance Market Trends",
+    "Wellington Management"
+  ],
+  "category": "Global Insurance Market Trends",
+  "_missing_fields": [
+    "title"
+  ],
+  "_content_hash": "76bc3bb1f28408d81e47a122aa41ca3c4b043a4623f5abdd0166476764f580f5"
+}
