@@ -1,0 +1,35 @@
+brand: iasa
+brand_name: Insurance Accounting & Systems Association
+base_url: https://www.iasa.org
+
+entry_points:
+  - url: https://www.iasa.org/IASA/IASA/Insights/Insight-Articles/Insights.aspx
+    category: Insurance Insights
+  - url: https://www.iasa.org/IASA/IASA/Insights/News/News.aspx
+    category: IASA News
+
+listing:
+  # Insights page uses h3 > a, News page uses a > h4; this selector covers both
+  link_selector: "#mainContentWrapper a[href*='.aspx']"
+
+extraction:
+  jsonld:
+    enabled: false
+
+  dom_fallback:
+    enabled: true
+    selectors:
+      body: "#mainContentWrapper"
+      title: "#mainContentWrapper h2"
+
+  images:
+    container: "#mainContentWrapper"
+    base_url: https://www.iasa.org
+
+url_filters:
+  include:
+    - "^https://www\\.iasa\\.org/IASA/.*Insights/.+\\.aspx$"
+  exclude:
+    - "/Insights\\.aspx$"
+    - "/News\\.aspx$"
+    - "\\?.*utm_"

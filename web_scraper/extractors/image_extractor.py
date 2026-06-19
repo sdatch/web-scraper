@@ -8,7 +8,8 @@ logger = logging.getLogger(__name__)
 
 
 def extract_images(response: HtmlResponse, container_selector: str,
-                   base_url: str | None = None) -> list[dict]:
+                   base_url: str | None = None,
+                   lazy_load: bool = False) -> list[dict]:
     """
     Extract image information from a content container.
 
@@ -24,6 +25,8 @@ def extract_images(response: HtmlResponse, container_selector: str,
 
     for img in soup.find_all("img"):
         src = img.get("src", "")
+        if lazy_load and not src:
+            src = img.get("data-src", "")
         if not src:
             continue
 

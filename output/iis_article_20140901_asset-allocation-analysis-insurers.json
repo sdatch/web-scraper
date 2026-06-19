@@ -1,0 +1,28 @@
+{
+  "author": "Wellington Management Company LLP",
+  "date_published": "2014-09-01",
+  "body": "<html><body><div class=\"field field--name-body field--type-text-with-summary field--label-hidden field__item\" property=\"schema:text\"><p>In recent years, the Insurance Group at Wellington Management has seen a growing number of insurers express an interest in undertaking a strategic asset allocation (AA) study. The low-yield environment of the past few years, along with the core xed income-centric nature of insurance portfolios and a widely anticipated future rise in interest rates, all seem to be contributing to this surge in interest. For our part, we believe that an insurer, like other institutional investors such as pension funds, endowments, and foundations, can bene t from conducting strategic AA studies as part of its management of enterprise-wide risks and opportunities.</p></div></body></html>",
+  "canonical_url": "https://www.internationalinsurance.org/asset-allocation-analysis-insurers",
+  "brand": "iis",
+  "content_type": "article",
+  "source_url": "https://www.internationalinsurance.org/asset-allocation-analysis-insurers",
+  "images": [
+    {
+      "url": "https://www.internationalinsurance.org/sites/default/files/styles/mekanic_480_mks3/public/2018-01/Capital%20Management%20default%20image_0.jpg?itok=9TSvhKwZ",
+      "alt": "Capital Management",
+      "caption": ""
+    }
+  ],
+  "publisher": "International Insurance Society",
+  "_scraped_at": "2026-04-28T11:25:04.694442+00:00",
+  "categories": [
+    "Risk Management & Insurance Economics",
+    "Wellington Management",
+    "Global Insurance Market Trends"
+  ],
+  "category": "Risk Management & Insurance Economics",
+  "_missing_fields": [
+    "title"
+  ],
+  "_content_hash": "0764920c0fd95926bd7d446183b4faa43261e798a0f9362135e11abd32c9e5ca"
+}

@@ -1,0 +1,26 @@
+{
+  "author": "Justin Anderson, CEO of Flexeye and Gary Richardson, KPMG in the UK",
+  "date_published": "2018-01-24",
+  "body": "<html><body><div class=\"field field--name-body field--type-text-with-summary field--label-hidden field__item\" property=\"schema:text\"><p> </p><p>One would be hard-pressed (and perhaps rather foolish) to deny the impact that the Internet of Things (IoT) will have on the world around us. From automated cars and home monitoring systems through to the management of infrastructure and the safety of underwater pipelines, IoT is already proving its ability to disrupt and transform virtually every aspect of our lives.</p><p><a href=\"https://internationalinsurance.org/sites/default/files/2018-01/Connecting%20the%20Dots_How%20the%20Internet%20of%20Things%20is%20creating%20vast%20opportunities%20for%20insurers.pdf\"><strong>read more &gt;</strong></a></p></div></body></html>",
+  "canonical_url": "https://www.internationalinsurance.org/connecting-dots-how-internet-things-creating-vast-opportunities-insurers",
+  "brand": "iis",
+  "content_type": "article",
+  "source_url": "https://www.internationalinsurance.org/connecting-dots-how-internet-things-creating-vast-opportunities-insurers",
+  "images": [
+    {
+      "url": "https://www.internationalinsurance.org/sites/default/files/styles/mekanic_480_mks3/public/2018-01/Innovation%20default%20image_4.jpg?itok=LxDva1nO",
+      "alt": "Innovation",
+      "caption": ""
+    }
+  ],
+  "publisher": "International Insurance Society",
+  "_scraped_at": "2026-04-28T11:37:31.407556+00:00",
+  "categories": [
+    "Insurance Technology & Innovation"
+  ],
+  "category": "Insurance Technology & Innovation",
+  "_missing_fields": [
+    "title"
+  ],
+  "_content_hash": "add052e2600e686bb9c4898d0218c268d2a7443831a6329125afb041f317721d"
+}

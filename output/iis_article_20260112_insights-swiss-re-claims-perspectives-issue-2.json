@@ -1,0 +1,29 @@
+{
+  "author": "Presented by Swiss Re",
+  "date_published": "2026-01-12",
+  "body": "<html><body><div class=\"field field--name-body field--type-text-with-summary field--label-hidden field__item\" property=\"schema:text\"><p> </p><p><strong>Presented by Swiss Re</strong></p><p><span lang=\"DE-CH\">Expert insights from Swiss Re P&amp;C Reinsurance on how digitalisation, autonomy, litigation trends and major loss events are reshaping today’s—and tomorrow’s—insurance claims landscape.</span></p><p><a href=\"https://internationalinsurance.org/sites/default/files/2026-01/SR-2025-12-claims-perspectives-issue2_0.pdf\"><span lang=\"DE-CH\"><strong>read more &gt;</strong></span></a></p></div></body></html>",
+  "canonical_url": "https://www.internationalinsurance.org/insights-swiss-re-claims-perspectives-issue-2",
+  "brand": "iis",
+  "content_type": "article",
+  "source_url": "https://www.internationalinsurance.org/insights-swiss-re-claims-perspectives-issue-2",
+  "images": [
+    {
+      "url": "https://www.internationalinsurance.org/sites/default/files/styles/mekanic_480_mks3/public/2026-01/ZRH-25-16240-P1-SR-Global%20Claims%20Insights_HeroImage_477x322px_0.jpg?itok=vNIBQhGN",
+      "alt": "Claims Perspectives · Issue 2",
+      "caption": ""
+    }
+  ],
+  "publisher": "International Insurance Society",
+  "_scraped_at": "2026-04-28T11:11:11.570699+00:00",
+  "categories": [
+    "Sustainability in Risk & Insurance",
+    "Swiss Re",
+    "Global Insurance Market Trends",
+    "News"
+  ],
+  "category": "Sustainability in Risk & Insurance",
+  "_missing_fields": [
+    "title"
+  ],
+  "_content_hash": "8c0f742f7acfb0e0361d559448c572604710c57aacd37b88e1f71eb2d38b7202"
+}

@@ -24,3 +24,13 @@ def itl_article_html():
 def itl_jsonld_sample():
     import json
     return json.loads((FIXTURES_DIR / "itl_jsonld_sample.json").read_text(encoding="utf-8"))
+
+
+@pytest.fixture
+def iaum_article_html():
+    return (FIXTURES_DIR / "iaum_article_page.html").read_text(encoding="utf-8")
+
+
+@pytest.fixture
+def iaum_sitemap_xml():
+    return (FIXTURES_DIR / "iaum_sitemap.xml").read_text(encoding="utf-8")

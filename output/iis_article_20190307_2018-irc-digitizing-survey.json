@@ -1,0 +1,28 @@
+{
+  "author": "The Insurance Research Council (IRC)",
+  "date_published": "2019-03-07",
+  "body": "<html><body><div class=\"field field--name-body field--type-text-with-summary field--label-hidden field__item\" property=\"schema:text\"><p> </p><p><em><span>Available courtesy of The Insurance Research Council (IRC)</span></em></p><p><a href=\"/sites/default/files/2019-03/2018_IRC_Digitizing_Survey.pdf\">Click here to learn more</a></p></div></body></html>",
+  "canonical_url": "https://www.internationalinsurance.org/2018-irc-digitizing-survey",
+  "brand": "iis",
+  "content_type": "article",
+  "source_url": "https://www.internationalinsurance.org/2018-irc-digitizing-survey",
+  "images": [
+    {
+      "url": "https://www.internationalinsurance.org/sites/default/files/styles/mekanic_480_mks3/public/2026-04/IRC%20Logo%20477x322px_0.png?itok=Y6oUCTun",
+      "alt": "2018 IRC Digitizing Survey",
+      "caption": ""
+    }
+  ],
+  "publisher": "International Insurance Society",
+  "_scraped_at": "2026-04-28T11:39:49.807028+00:00",
+  "categories": [
+    "Insurance Technology & Innovation",
+    "News",
+    "Global Insurance Market Trends"
+  ],
+  "category": "Insurance Technology & Innovation",
+  "_missing_fields": [
+    "title"
+  ],
+  "_content_hash": "a76809f73038646e898c87028b7dc6e7054d58fedd086d79fea00f20d1bdabee"
+}

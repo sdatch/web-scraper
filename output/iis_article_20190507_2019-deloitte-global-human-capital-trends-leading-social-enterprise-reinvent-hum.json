@@ -1,0 +1,27 @@
+{
+  "author": "Presented by Deloitte",
+  "date_published": "2019-05-07",
+  "body": "<html><body><div class=\"field field--name-body field--type-text-with-summary field--label-hidden field__item\" property=\"schema:text\"><p> </p><p><em>@2018 Deloitte Global</em></p><p><a href=\"https://www2.deloitte.com/content/dam/insights/us/articles/5136_HC-Trends-2019/DI_HC-Trends-2019.pdf\">Click here to learn more</a></p></div></body></html>",
+  "canonical_url": "https://www.internationalinsurance.org/2019-deloitte-global-human-capital-trends-leading-social-enterprise-reinvent-human-focus",
+  "brand": "iis",
+  "content_type": "article",
+  "source_url": "https://www.internationalinsurance.org/2019-deloitte-global-human-capital-trends-leading-social-enterprise-reinvent-human-focus",
+  "images": [
+    {
+      "url": "https://www.internationalinsurance.org/sites/default/files/styles/mekanic_480_mks3/public/2026-04/Deloitte%20477x322px_0.png?itok=a2NNz7c3",
+      "alt": "2019 Deloitte Global Human Capital Trends - Leading the social enterprise: reinvent with a human focus",
+      "caption": ""
+    }
+  ],
+  "publisher": "International Insurance Society",
+  "_scraped_at": "2026-04-28T11:41:44.092728+00:00",
+  "categories": [
+    "Insurance Technology & Innovation",
+    "News"
+  ],
+  "category": "Insurance Technology & Innovation",
+  "_missing_fields": [
+    "title"
+  ],
+  "_content_hash": "c257a53f17b1abc200033882b518df5444cb519f0847a05b9b673f4eb3642ca4"
+}

@@ -1,0 +1,77 @@
+brand: clm
+brand_name: The CLM Magazine
+base_url: https://www.theclm.org
+
+# Discovery happens from three kinds of starting pages:
+#  - /Magazine/                — current-issue articles (a.article-link)
+#  - /Magazine/topic/{slug}    — per-topic article lists
+#  - /Magazine/Home/Archive    — index of past Editions; spider follows each
+#                                Editions/{N} link to a per-edition article list
+entry_points:
+  - url: https://www.theclm.org/Magazine/
+    category: ""
+  - url: https://www.theclm.org/Magazine/topic/all
+    category: All
+  - url: https://www.theclm.org/Magazine/Home/Archive
+    category: Archive
+  - url: https://www.theclm.org/Magazine/topic/cannabis
+    category: Cannabis
+  - url: https://www.theclm.org/Magazine/topic/claimsmanagement
+    category: Claims Management
+  - url: https://www.theclm.org/Magazine/topic/cmpl
+    category: CMPL
+  - url: https://www.theclm.org/Magazine/topic/construction
+    category: Construction
+  - url: https://www.theclm.org/Magazine/topic/coverage
+    category: Coverage
+  - url: https://www.theclm.org/Magazine/topic/dei
+    category: DEI
+  - url: https://www.theclm.org/Magazine/topic/environmental
+    category: Environmental
+  - url: https://www.theclm.org/Magazine/topic/extracontractual
+    category: Extra-Contractual
+  - url: https://www.theclm.org/Magazine/topic/fraud
+    category: Fraud
+  - url: https://www.theclm.org/Magazine/topic/litigation
+    category: Litigation Management
+  - url: https://www.theclm.org/Magazine/topic/product
+    category: Product
+  - url: https://www.theclm.org/Magazine/topic/property
+    category: Property
+  - url: https://www.theclm.org/Magazine/topic/rrh
+    category: RRH
+  - url: https://www.theclm.org/Magazine/topic/subrogation
+    category: Subrogation
+  - url: https://www.theclm.org/Magazine/topic/transportation
+    category: Transportation
+  - url: https://www.theclm.org/Magazine/topic/workerscomp
+    category: Workers' Compensation
+
+listing:
+  link_selector: "a.article-link[href*='/Magazine/articles/']"
+  edition_selector: "#archive_editions a[href*='Editions/']"
+
+extraction:
+  # No JSON-LD on this site; date is plain text in <span class="artdate">
+  # and is handled directly in the spider.
+  jsonld:
+    enabled: false
+
+  dom_fallback:
+    enabled: true
+    selectors:
+      title: "h1.article-link"
+      # Body is the third direct <div> child of the article column wrapper:
+      # 1st = date+image, 2nd = social buttons, 3rd = article paragraphs.
+      body: "div.col-12.card-text > div:nth-of-type(3)"
+      author: "#accordionExample .col-10"
+
+  images:
+    container: "div.col-12.card-text"
+    base_url: https://www.theclm.org
+
+url_filters:
+  include:
+    - "^https://www\\.theclm\\.org/Magazine/articles/.+/[0-9]+$"
+  exclude:
+    - "\\?.*utm_"

@@ -1,0 +1,28 @@
+{
+  "author": "Presented by RGA",
+  "date_published": "2024-10-08",
+  "body": "<html><body><div class=\"field field--name-body field--type-text-with-summary field--label-hidden field__item\" property=\"schema:text\"><p> </p><p><strong>Presented by RGA</strong></p><p><span>The latest update to OpenAI’s ChatGPT brings reasoning capabilities that make it more useful to insurers. RGA’s Jeff Heaton explains the extremely promising features of this latest offering, named o1, and why it signals a transformative road ahead.</span></p><p><a href=\"https://cdn.mediavalet.com/usca/clientmarketing/zk2lGIl9J0qB8MKWrNfZMw/XbeBFJVdDE-CIXZ6vo5q3Q/Original/GenAI-and-Insurance.pdf\"><span><strong>Learn more &gt;</strong></span></a><span><strong> </strong></span></p></div></body></html>",
+  "canonical_url": "https://www.internationalinsurance.org/insights_rga_gen_ai_and_insurance",
+  "brand": "iis",
+  "content_type": "article",
+  "source_url": "https://www.internationalinsurance.org/insights_rga_gen_ai_and_insurance",
+  "images": [
+    {
+      "url": "https://www.internationalinsurance.org/sites/default/files/styles/mekanic_480_mks3/public/2024-10/GenAI-and-Insurance-477x332.jpg?itok=wOpXUllY",
+      "alt": "GenAI and Insurance: What OpenAI’s o1 ‘reasoning’ model could mean for insurers",
+      "caption": ""
+    }
+  ],
+  "publisher": "International Insurance Society",
+  "_scraped_at": "2026-04-28T11:13:25.784191+00:00",
+  "categories": [
+    "Insurance Technology & Innovation",
+    "RGA",
+    "News"
+  ],
+  "category": "Insurance Technology & Innovation",
+  "_missing_fields": [
+    "title"
+  ],
+  "_content_hash": "998d828521b1ab214034a880cdaf55747205f4040a5a00b8571ef1e79bb953be"
+}

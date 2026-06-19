@@ -1,0 +1,27 @@
+{
+  "author": "The Insurance Research Council (IRC)",
+  "date_published": "2019-03-07",
+  "body": "<html><body><div class=\"field field--name-body field--type-text-with-summary field--label-hidden field__item\" property=\"schema:text\"><p> </p><p><em><span>Available courtesy of The Insurance Research Council (IRC)</span></em></p><p><a href=\"/sites/default/files/2019-03/2018_IRC_Auto_Injury_Study.pdf\">Click here to learn more</a></p></div></body></html>",
+  "canonical_url": "https://www.internationalinsurance.org/2018-irc-auto-injury-study",
+  "brand": "iis",
+  "content_type": "article",
+  "source_url": "https://www.internationalinsurance.org/2018-irc-auto-injury-study",
+  "images": [
+    {
+      "url": "https://www.internationalinsurance.org/sites/default/files/styles/mekanic_480_mks3/public/2026-04/IRC%20Logo%20477x322px_1.png?itok=a9tNANDm",
+      "alt": "2018 IRC Auto Injury Study",
+      "caption": ""
+    }
+  ],
+  "publisher": "International Insurance Society",
+  "_scraped_at": "2026-04-28T11:39:38.199373+00:00",
+  "categories": [
+    "Insurance Technology & Innovation",
+    "News"
+  ],
+  "category": "Insurance Technology & Innovation",
+  "_missing_fields": [
+    "title"
+  ],
+  "_content_hash": "4de5c404ecf27aa53ce936878913a1f45683051c830ec3930578ed48c348cdb0"
+}

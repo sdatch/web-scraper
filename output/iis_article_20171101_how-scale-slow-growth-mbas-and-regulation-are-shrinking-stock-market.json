@@ -1,0 +1,27 @@
+{
+  "author": "Wellington Management Company LLP",
+  "date_published": "2017-11-01",
+  "body": "<html><body><div class=\"field field--name-body field--type-text-with-summary field--label-hidden field__item\" property=\"schema:text\"><p>One Of the challenges Of being a bOttOm-up investOr is that there are always mOre cOmpanies than yOu can pOssibly research. This is why, in an attempt to help my colleagues, I have tried to straddle micro and macro (call it mezza), keeping an eye on the aggre- gate equity markets and their dynamics as a subject on their own to see if there are things happening that are strange or noteworthy. For the last 15 or more years in the US, the answer has been yes: While the economy grew much larger and the addressable market increased substantially with glo- balization, the number of listed companies in the US went down steadily and precipitously, only barely arresting its fall in the last couple of years, and the concentration in nearly every industry went up.</p></div></body></html>",
+  "canonical_url": "https://www.internationalinsurance.org/how-scale-slow-growth-mbas-and-regulation-are-shrinking-stock-market",
+  "brand": "iis",
+  "content_type": "article",
+  "source_url": "https://www.internationalinsurance.org/how-scale-slow-growth-mbas-and-regulation-are-shrinking-stock-market",
+  "images": [
+    {
+      "url": "https://www.internationalinsurance.org/sites/default/files/styles/mekanic_480_mks3/public/2018-01/Capital%20Management%20default%20image.jpg?itok=HXUTEF5_",
+      "alt": "Capital Management",
+      "caption": ""
+    }
+  ],
+  "publisher": "International Insurance Society",
+  "_scraped_at": "2026-04-28T11:24:49.894310+00:00",
+  "categories": [
+    "Risk Management & Insurance Economics",
+    "Wellington Management"
+  ],
+  "category": "Risk Management & Insurance Economics",
+  "_missing_fields": [
+    "title"
+  ],
+  "_content_hash": "a0cefb4def820818a6f25d4e8eb06c00baa873a3505ae15794eb39ffc5c71299"
+}

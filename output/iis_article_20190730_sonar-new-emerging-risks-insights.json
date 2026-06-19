@@ -1,0 +1,28 @@
+{
+  "author": "Presented by Swiss Re",
+  "date_published": "2019-07-30",
+  "body": "<html><body><div class=\"field field--name-body field--type-text-with-summary field--label-hidden field__item\" property=\"schema:text\"><p> </p><p><em><span>Swiss Re Institute</span></em></p><p>To assess and underwrite risks, the insurance industry relies on experience. However, historical data alone cannot build understanding of the future risk landscape, which is forever changing and presents new and previously unforeseen risks. Swiss Reʼs SONAR report, which has been published annually since 2013, provides a forward-looking perspective, to further promote and engage with such risk dialogue.</p><p><a href=\"https://www.swissre.com/dam/jcr:5916802c-cf6b-4c67-9d42-39cf80c4b00d/sonar-publication-2019.pdf\"><span>Click here to learn more</span></a></p></div></body></html>",
+  "canonical_url": "https://www.internationalinsurance.org/sonar-new-emerging-risks-insights",
+  "brand": "iis",
+  "content_type": "article",
+  "source_url": "https://www.internationalinsurance.org/sonar-new-emerging-risks-insights",
+  "images": [
+    {
+      "url": "https://www.internationalinsurance.org/sites/default/files/styles/mekanic_480_mks3/public/2026-04/Swiss%20Re%20article%207.2019.png?itok=X1NOyx7E",
+      "alt": "Sonar: New emerging risks insights",
+      "caption": ""
+    }
+  ],
+  "publisher": "International Insurance Society",
+  "_scraped_at": "2026-04-28T11:42:43.965096+00:00",
+  "categories": [
+    "Sustainability in Risk & Insurance",
+    "News",
+    "Swiss Re"
+  ],
+  "category": "Sustainability in Risk & Insurance",
+  "_missing_fields": [
+    "title"
+  ],
+  "_content_hash": "08958f953d0cf6d6379a1e19e183f734517706d37e597b1ef9e40e74b8a08a5c"
+}

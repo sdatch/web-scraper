@@ -1,0 +1,27 @@
+{
+  "author": "International Insurance Society",
+  "date_published": "2018-04-30",
+  "body": "<html><body><div class=\"field field--name-body field--type-text-with-summary field--label-hidden field__item\"><p><strong>Click on categories to view articles:</strong></p><p><a href=\"https://internationalinsurance.org/insurance-technology-innovation-1\">Insurance Technology &amp; Innovation</a></p><p><a href=\"https://internationalinsurance.org/risk-management-insurance-economics-1\">Risk Management &amp; Insurance Economics</a></p><p><a href=\"https://internationalinsurance.org/insurance-regulation-global-policy-1\">Insurance Regulation &amp; Global Policy</a></p><p><a href=\"https://internationalinsurance.org/sustainability-risk-insurance-1\">Sustainability in Risk &amp; Insurance</a></p><p><a href=\"https://internationalinsurance.org/insurance-talent-workforce-strategy-1\">Insurance Talent &amp; Workforce Strategy</a></p><p><a href=\"https://internationalinsurance.org/global-insurance-market-trends-1\">Global Insurance Market Trends</a></p></div></body></html>",
+  "canonical_url": "https://www.internationalinsurance.org/global-insurance-stock-review-ye-2017",
+  "brand": "iis",
+  "content_type": "article",
+  "source_url": "https://www.internationalinsurance.org/global-insurance-stock-review-ye-2017",
+  "images": [
+    {
+      "url": "https://www.internationalinsurance.org/sites/default/files/styles/mekanic_480_mks3/public/2018-05/Capital%20Management%20default%20image.jpg?itok=aBaS6oYc",
+      "alt": "Capital Management",
+      "caption": ""
+    }
+  ],
+  "publisher": "International Insurance Society",
+  "_scraped_at": "2026-04-28T11:38:02.199841+00:00",
+  "categories": [
+    "Risk Management & Insurance Economics",
+    "GISR Stock Review"
+  ],
+  "category": "Risk Management & Insurance Economics",
+  "_missing_fields": [
+    "title"
+  ],
+  "_content_hash": "6c5509a235383baf5da2c6cf62cf5b1c9a50a275d02eff2a4216feb95ae01a48"
+}

@@ -1,0 +1,27 @@
+{
+  "author": "Presented by EY",
+  "date_published": "2019-05-07",
+  "body": "<html><body><div class=\"field field--name-body field--type-text-with-summary field--label-hidden field__item\" property=\"schema:text\"><p> </p><p><em>A report by EY</em></p><p><a href=\"https://www.ey.com/Publication/vwLUAssets/ey-global-information-security-survey-2018-19/$FILE/ey-global-information-security-survey-2018-19.pdf\">Click here to learn more</a></p></div></body></html>",
+  "canonical_url": "https://www.internationalinsurance.org/global-information-security-survey-2018-19-cybersecurity-about-more-protection",
+  "brand": "iis",
+  "content_type": "article",
+  "source_url": "https://www.internationalinsurance.org/global-information-security-survey-2018-19-cybersecurity-about-more-protection",
+  "images": [
+    {
+      "url": "https://www.internationalinsurance.org/sites/default/files/styles/mekanic_480_mks3/public/2026-04/EY%20477x322px.png?itok=dtrQA_R8",
+      "alt": "Global Information Security Survey 2018-19: Is cybersecurity about more than protection?",
+      "caption": ""
+    }
+  ],
+  "publisher": "International Insurance Society",
+  "_scraped_at": "2026-04-28T11:23:35.007055+00:00",
+  "categories": [
+    "Insurance Technology & Innovation",
+    "News"
+  ],
+  "category": "Insurance Technology & Innovation",
+  "_missing_fields": [
+    "title"
+  ],
+  "_content_hash": "9060fbd9ac1a12f0c8dda4145218b4abddd618a8c4bc8c431f03023817ce0319"
+}

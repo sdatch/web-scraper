@@ -1,0 +1,28 @@
+{
+  "author": "Presented by Aon",
+  "date_published": "2019-05-07",
+  "body": "<html><body><div class=\"field field--name-body field--type-text-with-summary field--label-hidden field__item\" property=\"schema:text\"><p> </p><p><em>Presented by Aon</em></p><p>A key insight from Aon’s 2019 Global Risk Management Survey is that organizations need to be more prepared for the broad range of risks that threaten their ability to continue growing, protecting their brand and serving clients and stakeholders. Top-of-mind concerns include a slowing economy, damage to reputation and brand and accelerated rates of change in market factors reflecting apprehension about global trade conditions.</p><p><a href=\"https://www.aon.com/getmedia/8d5ad510-1ae5-4d2b-a3d0-e241181da882/2019-Aon-Global-Risk-Management-Survey-Report.aspx\"><strong>learn more &gt;</strong></a></p></div></body></html>",
+  "canonical_url": "https://www.internationalinsurance.org/global-risk-management-survey-2019",
+  "brand": "iis",
+  "content_type": "article",
+  "source_url": "https://www.internationalinsurance.org/global-risk-management-survey-2019",
+  "images": [
+    {
+      "url": "https://www.internationalinsurance.org/sites/default/files/styles/mekanic_480_mks3/public/2026-04/Aon%20logo%20477x322px.png?itok=PM9ifcj6",
+      "alt": "Global Risk Management Survey 2019",
+      "caption": ""
+    }
+  ],
+  "publisher": "International Insurance Society",
+  "_scraped_at": "2026-04-28T11:41:32.629948+00:00",
+  "categories": [
+    "Sustainability in Risk & Insurance",
+    "News",
+    "Global Insurance Market Trends"
+  ],
+  "category": "Sustainability in Risk & Insurance",
+  "_missing_fields": [
+    "title"
+  ],
+  "_content_hash": "b02df7e2c752e366e296283b9ec1f428189c9851e5c05aa13e4df73cee66965e"
+}

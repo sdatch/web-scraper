@@ -1,0 +1,27 @@
+{
+  "author": "Presented by Aon",
+  "date_published": "2019-05-07",
+  "body": "<html><body><div class=\"field field--name-body field--type-text-with-summary field--label-hidden field__item\" property=\"schema:text\"><p> </p><p><em>Presented by Aon</em></p><p><a href=\"http://thoughtleadership.aonbenfield.com/Documents/20190122-ab-if-annual-weather-climate-report-2018.pdf%20\"><strong>read and download report &gt;</strong></a></p></div></body></html>",
+  "canonical_url": "https://www.internationalinsurance.org/weather-climate-and-catastrophe-insight-2018-annual-report",
+  "brand": "iis",
+  "content_type": "article",
+  "source_url": "https://www.internationalinsurance.org/weather-climate-and-catastrophe-insight-2018-annual-report",
+  "images": [
+    {
+      "url": "https://www.internationalinsurance.org/sites/default/files/styles/mekanic_480_mks3/public/2026-04/Aon%20logo%20477x322px_2.png?itok=C6yL2oAX",
+      "alt": "Weather, Climate and Catastrophe Insight: 2018 Annual Report",
+      "caption": ""
+    }
+  ],
+  "publisher": "International Insurance Society",
+  "_scraped_at": "2026-04-28T11:40:58.492932+00:00",
+  "categories": [
+    "Sustainability in Risk & Insurance",
+    "News"
+  ],
+  "category": "Sustainability in Risk & Insurance",
+  "_missing_fields": [
+    "title"
+  ],
+  "_content_hash": "d88f6d056d9f7a6c8a85ca01eed02ec7e2a99c397f1bacf08e25cc7f49cad2e7"
+}

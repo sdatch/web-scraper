@@ -68,6 +68,7 @@ class BaseSpider(scrapy.Spider):
             response,
             container_selector=container,
             base_url=img_config.get("base_url"),
+            lazy_load=img_config.get("lazy_load", False),
         )
 
     def merge_extraction(self, jsonld_data: dict, dom_data: dict) -> dict:

@@ -1,0 +1,28 @@
+{
+  "author": "Presented by Munich Re",
+  "date_published": "2019-05-07",
+  "body": "<html><body><div class=\"field field--name-body field--type-text-with-summary field--label-hidden field__item\" property=\"schema:text\"><p> </p><p><em>A report by Munich RE</em></p><p><a href=\"https://www.munichre.com/topics-online/en/climate-change-and-natural-disasters/natural-disasters/the-natural-disasters-of-2018-in-figures.html\">Click here to learn more</a></p></div></body></html>",
+  "canonical_url": "https://www.internationalinsurance.org/natural-disasters-2018-figures",
+  "brand": "iis",
+  "content_type": "article",
+  "source_url": "https://www.internationalinsurance.org/natural-disasters-2018-figures",
+  "images": [
+    {
+      "url": "https://www.internationalinsurance.org/sites/default/files/styles/mekanic_480_mks3/public/2026-04/Munich%20Re%20Logo_0.png?itok=H1TpyBvm",
+      "alt": "The natural disasters of 2018 in figures",
+      "caption": ""
+    }
+  ],
+  "publisher": "International Insurance Society",
+  "_scraped_at": "2026-04-28T11:40:29.589179+00:00",
+  "categories": [
+    "Insurance Technology & Innovation",
+    "News",
+    "Risk Management & Insurance Economics"
+  ],
+  "category": "Insurance Technology & Innovation",
+  "_missing_fields": [
+    "title"
+  ],
+  "_content_hash": "f061464bfc235da7b266b6e36e9598e61c123f191b891837a33bd9825256d870"
+}

@@ -1,0 +1,29 @@
+{
+  "author": "Presented by Milliman",
+  "date_published": "2025-10-01",
+  "body": "<html><body><div class=\"field field--name-body field--type-text-with-summary field--label-hidden field__item\" property=\"schema:text\"><p> </p><p><strong>Presented by Milliman</strong></p><p><span lang=\"EN-SG\">Geospatial imagery and high-resolution image technology have a wide variety of applications for the property and casualty insurance industry, including underwriting, rating, and claims settlement. New methods for determining building location, such as the use of structure footprints, may offer significant improvements in risk determination in certain cases. In this paper, published for the Society of Actuaries Research Institute, Milliman experts discuss using building footprints derived from machine learning and high-resolution imagery.</span></p><p><a href=\"https://www.milliman.com/en/insight/analytics-insurance-building-footprints-machine-learning\"><span lang=\"EN-SG\"><strong>learn more &gt; </strong></span></a></p></div></body></html>",
+  "canonical_url": "https://www.internationalinsurance.org/insights-milliman-advanced-analytics-in-insurance-utilizing-building-footprints-derived-from-machine-learning-and-high-resolution-imagery",
+  "brand": "iis",
+  "content_type": "article",
+  "source_url": "https://www.internationalinsurance.org/insights-milliman-advanced-analytics-in-insurance-utilizing-building-footprints-derived-from-machine-learning-and-high-resolution-imagery",
+  "images": [
+    {
+      "url": "https://www.internationalinsurance.org/sites/default/files/styles/mekanic_480_mks3/public/2025-10/Milliman%20October_Building%20footprints%20477x322px.png?itok=3iM-ueGR",
+      "alt": "Advanced analytics in insurance: Utilizing building footprints derived from machine learning and high-resolution imagery",
+      "caption": ""
+    }
+  ],
+  "publisher": "International Insurance Society",
+  "_scraped_at": "2026-04-28T11:12:06.814070+00:00",
+  "categories": [
+    "Insurance Technology & Innovation",
+    "Milliman",
+    "News",
+    "Sustainability in Risk & Insurance"
+  ],
+  "category": "Insurance Technology & Innovation",
+  "_missing_fields": [
+    "title"
+  ],
+  "_content_hash": "17730db42d9ecf5b112806a8907ad8f754033c53a59acf1aec2ed930b6f2b086"
+}

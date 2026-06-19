@@ -1,0 +1,31 @@
+{
+  "author": "Presented by EY",
+  "date_published": "2026-02-03",
+  "body": "<html><body><div class=\"field field--name-body field--type-text-with-summary field--label-hidden field__item\" property=\"schema:text\"><p><br/><strong>Presented by EY</strong></p><p><span>EY’s 2026 Global Insurance Outlook goes beyond the complexity of the current landscape facing insurers to focus on growth and innovation strategies to position markets leaders to succeed. It sets out valuable insights and strategic imperatives to help leaders navigate market volatility, leverage AI for competitive advantage, and optimize customer-centric approaches. </span></p><p><a href=\"https://internationalinsurance.org/sites/default/files/2026-02/2026-global-insurance-outlook.pdf\"><strong>learn more &gt;</strong></a></p></div></body></html>",
+  "canonical_url": "https://www.internationalinsurance.org/insights-ey-2026-global-insurance-outlook",
+  "brand": "iis",
+  "content_type": "article",
+  "source_url": "https://www.internationalinsurance.org/insights-ey-2026-global-insurance-outlook",
+  "images": [
+    {
+      "url": "https://www.internationalinsurance.org/sites/default/files/styles/mekanic_480_mks3/public/2026-02/EY%20477x322.jpg?itok=XopdTV4K",
+      "alt": "2026 Global Insurance Outlook",
+      "caption": ""
+    }
+  ],
+  "publisher": "International Insurance Society",
+  "_scraped_at": "2026-04-28T11:11:25.377818+00:00",
+  "categories": [
+    "Sustainability in Risk & Insurance",
+    "News",
+    "EY",
+    "Ernst & Young",
+    "Insurance Technology & Innovation",
+    "Risk Management & Insurance Economics"
+  ],
+  "category": "Sustainability in Risk & Insurance",
+  "_missing_fields": [
+    "title"
+  ],
+  "_content_hash": "c1bdeeafa3662c32fe50c1a3d8986ee1fa2414e99554bd319c41b3085f0e20ad"
+}

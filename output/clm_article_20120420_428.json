@@ -1,0 +1,24 @@
+{
+  "title": "Head in the Clouds",
+  "author": "Tim Bruffey",
+  "date_published": "2012-04-20",
+  "body": "<html><body><div><p class=\"BasicParagraph\">Thinking about hosting your claims system in the cloud? Be sure to look at these five key points before selecting a provider.</p>\n<p class=\"BasicParagraph\"><strong>1.    Do they use a “private” or “public” cloud infrastructure?</strong><br/>There are many “Infrastructure as a Service” entities out there, and if your provider is using one you may have to take a closer look. If the provider’s system resources are shared by other companies, your Cloud could be vulnerable to action taken against those companies. Providers that utilize a private cloud are almost always a safer bet.</p>\n<p class=\"BasicParagraph\"><strong>2.   Look for a service level agreement with bite.</strong><br/>Guaranteeing uptime is nice but monetizing down time is better.</p>\n<p class=\"BasicParagraph\"><strong>3.   Security, security, security.</strong><br/>Implementing security can be costly. When comparing providers, be sure to ask about their security practices. Chances are it will show up when you look at the bottom line, but it’s worth protecting your data.</p>\n<p class=\"BasicParagraph\"><strong>4.   How long do they retain your data?</strong><br/>Your data and metadata can be more valuable than you may know. If you come up with an idea that requires looking back several years, it’s good to know that you can. Better to save that data just in case rather than save some money now and wish you could get your data later.</p>\n<div>\n<p class=\"AuthorBioCM\"><strong>5.   What percentage of the provider’s infrastructure is virtualized?</strong><br/>The virtual computer revolution is upon us. It allows scalability, high availability, flexible resource allocation, and helps future-proof your environment. Because virtual servers can easily be moved from physical computer to physical computer without missing a beat, upgrades are no sweat.</p>\n</div></div></body></html>",
+  "canonical_url": "https://www.theclm.org/Magazine/articles/head0-in-the-cloud-computing/428",
+  "brand": "clm",
+  "content_type": "article",
+  "category": "Archive",
+  "categories": [
+    "Archive"
+  ],
+  "images": [
+    {
+      "url": "https://clmmagazines3.imgix.net/d442aa0e89b9434e880af8a2fdf8b28a.jpg?w=750&h=250&fit=crop&crop=focalpoint",
+      "alt": "Photo",
+      "caption": ""
+    }
+  ],
+  "publisher": "The CLM",
+  "source_url": "https://www.theclm.org/Magazine/articles/head0-in-the-cloud-computing/428",
+  "_scraped_at": "2026-05-10T12:24:10.887563+00:00",
+  "_content_hash": "84bf06bfd139badd16663e58c60b9de0a3e3e4d74ad240eb8a4b6213877d5bad"
+}

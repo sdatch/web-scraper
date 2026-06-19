@@ -1,0 +1,27 @@
+{
+  "author": "Wellington Management Company LLP",
+  "date_published": "2017-12-01",
+  "body": "<html><body><div class=\"field field--name-body field--type-text-with-summary field--label-hidden field__item\" property=\"schema:text\"><p><br/><strong>Presented by Wellington Management</strong></p><p>A report written by Alan Hsu, Equity Portfolio Manager and Global Industry Analyst with Wellington Management focuses on how investors are often drawn to social, technological, or economic trends that they think may o er lasting opportunities and the potential for investment returns. From e-commerce to big data to Chinese consumption, many durable themes have the potential to cause substantial asset repricing. In our opinion, prudent capital allocation compels asset owners to remain vigilant of such trends, given the potential for new risks and opportunities to arise over time.</p><p><a href=\"https://internationalinsurance.org/sites/default/files/2018-01/Brewing-storm_Are-investors-discounting-climate-risks-and-opportnities_US%20%281%29.pdf\"><strong>learn more &gt;</strong></a></p></div></body></html>",
+  "canonical_url": "https://www.internationalinsurance.org/brewing-storm-are-investors-discounting-climate-risks-and-opportunities",
+  "brand": "iis",
+  "content_type": "article",
+  "source_url": "https://www.internationalinsurance.org/brewing-storm-are-investors-discounting-climate-risks-and-opportunities",
+  "images": [
+    {
+      "url": "https://www.internationalinsurance.org/sites/default/files/styles/mekanic_480_mks3/public/2018-01/Resilience%20default%20image_1.jpg?itok=QRJu31Nd",
+      "alt": "Resilience",
+      "caption": ""
+    }
+  ],
+  "publisher": "International Insurance Society",
+  "_scraped_at": "2026-04-28T11:26:07.472624+00:00",
+  "categories": [
+    "Sustainability in Risk & Insurance",
+    "Wellington Management"
+  ],
+  "category": "Sustainability in Risk & Insurance",
+  "_missing_fields": [
+    "title"
+  ],
+  "_content_hash": "359b2603f7126a24d72c295f7c964fdff6a969c59f86af58e1467a7368221abc"
+}

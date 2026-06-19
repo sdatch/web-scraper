@@ -1,0 +1,50 @@
+brand: iis
+brand_name: International Insurance Society
+base_url: https://www.internationalinsurance.org
+
+entry_points:
+  - url: https://www.internationalinsurance.org/insights-research-1
+    category: Insights & Research
+
+# Pagination is 1-indexed with ?page=N query parameter.
+# Spider follows "next" links rather than computing total pages.
+pagination:
+  page_param: page
+  next_page_selector: "a.pagination__link.pagination__next"
+
+listing:
+  link_selector: "a.topic-grid-block__item"
+
+extraction:
+  # No JSON-LD on this site; structured data is inline RDFa.
+  jsonld:
+    enabled: false
+
+  dom_fallback:
+    enabled: true
+    selectors:
+      title: "h1.post-title"
+      body: "div.field--name-body.field__item"
+      author: "div.field--name-field-article-author .field__item"
+      # Date uses RDFa content attribute -- extracted by spider directly.
+      category: "div.field--name-field-topics .field__item a"
+
+  images:
+    container: "div.field--name-field-image, div.field--name-body"
+    base_url: https://www.internationalinsurance.org
+    lazy_load: true
+
+url_filters:
+  include:
+    - "^https://www\\.internationalinsurance\\.org/.+"
+  exclude:
+    - "/user/"
+    - "/admin/"
+    - "/search/"
+    - "/node/"
+    - "/sitemap"
+    - "\\?.*utm_"
+    - "/global_priorities_survey"
+    - "/shin_research_library"
+    - "/leaders_of_tomorrow_research"
+    - "/executive_insights_library"

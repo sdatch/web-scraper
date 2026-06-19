@@ -60,9 +60,9 @@ def validate_config(site):
         errors.append("Missing 'brand'")
     if not config.get("base_url"):
         errors.append("Missing 'base_url'")
-    if not config.get("entry_points"):
-        errors.append("Missing or empty 'entry_points'")
-    else:
+    if not config.get("entry_points") and not config.get("sitemap_url"):
+        errors.append("Missing 'entry_points' or 'sitemap_url'")
+    elif config.get("entry_points"):
         for i, ep in enumerate(config["entry_points"]):
             if not ep.get("url"):
                 errors.append(f"Entry point {i}: missing 'url'")
